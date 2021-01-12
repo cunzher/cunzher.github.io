@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.cunzher.cn/"/>
-  <updated>2021-01-12T13:19:20.949Z</updated>
+  <updated>2021-01-12T13:58:58.161Z</updated>
   <id>https://www.cunzher.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.cunzher.cn/posts/c516f365.html"/>
     <id>https://www.cunzher.cn/posts/c516f365.html</id>
     <published>2021-01-12T09:19:59.000Z</published>
-    <updated>2021-01-12T13:19:20.949Z</updated>
+    <updated>2021-01-12T13:58:58.161Z</updated>
     
     <content type="html"><![CDATA[<p>&quot;非常医学生&quot;即日起恢复更新，不定期上传在校期间做好的电子笔记</p><a id="more"></a><p>由于近期疫情形势不太乐观，我们学校暂停考试，直接放假啦~</p><p>因为太长时间没有更新，Hexo和Node.js都更新了，我的Node.js之前自动更新到最新版，导致Hexo和Node.js不兼容的问题，而Coding也把静态网站的部署搬到了腾讯云，排查问题捣鼓了将近一天（效率好低233）</p><p>Hexo 15.0.0 版本支持了npm安装主题，我试了试，顺便就换了个主题~</p><p>刚刚调试好，各位大佬如果发现问题请及时反馈，留言或者cunzher@163.com都是可以哒~</p><p>那么，&quot;非常医学生&quot;即日起就恢复更新啦，不定期上传在校期间做好的电子笔记~</p>]]></content>
     
