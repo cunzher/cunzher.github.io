@@ -520,14 +520,14 @@
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/QQ/index.html</loc>
+    <loc>https://www.cunzher.cn/QQ.html</loc>
     
     <lastmod>2020-02-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/QQ.html</loc>
+    <loc>https://www.cunzher.cn/QQ/index.html</loc>
     
     <lastmod>2020-02-20</lastmod>
     
@@ -620,20 +620,6 @@
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunzher.cn/tags/%E7%97%85%E7%90%86%E5%AD%A6/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cunzher.cn/tags/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -655,6 +641,20 @@
   </url>
   
   <url>
+    <loc>https://www.cunzher.cn/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunzher.cn/tags/%E7%97%85%E7%90%86%E5%AD%A6/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cunzher.cn/tags/%E7%82%8E%E7%97%87/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -663,6 +663,13 @@
   
   <url>
     <loc>https://www.cunzher.cn/tags/%E8%82%BF%E7%98%A4/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunzher.cn/tags/%E6%B6%88%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -683,6 +690,13 @@
   </url>
   
   <url>
+    <loc>https://www.cunzher.cn/tags/%E6%B3%8C%E5%B0%BF%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cunzher.cn/tags/%E7%94%9F%E6%AE%96%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -691,20 +705,6 @@
   
   <url>
     <loc>https://www.cunzher.cn/tags/%E4%B9%B3%E8%85%BA%E7%96%BE%E7%97%85/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunzher.cn/tags/%E6%B6%88%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunzher.cn/tags/%E6%B3%8C%E5%B0%BF%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -900,14 +900,14 @@
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/tags/%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F/</loc>
+    <loc>https://www.cunzher.cn/tags/%E5%BF%83%E8%A1%80%E7%AE%A1/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/tags/%E5%BF%83%E8%A1%80%E7%AE%A1/</loc>
+    <loc>https://www.cunzher.cn/tags/%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1049,14 +1049,14 @@
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/categories/%E5%8C%BB%E5%AD%A6/%E7%97%85%E7%90%86%E5%AD%A6/</loc>
+    <loc>https://www.cunzher.cn/categories/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.cunzher.cn/categories/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://www.cunzher.cn/categories/%E5%8C%BB%E5%AD%A6/%E7%97%85%E7%90%86%E5%AD%A6/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
