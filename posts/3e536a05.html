@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.3.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/32x32.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/16x16.ico">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"www.cunzher.cn","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"manual"},"fancybox":true,"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="学习目标  掌握 色谱法的基本原理和分类；色谱仪输出信息；气相色谱仪和高效液相色谱仪的基本结构及对各组成部件的基本要求。 熟悉 色谱仪各组成部分的相互关系；色谱检测器分类及对检测器的主要要求；气相色谱仪和高效液相色谱仪的操作注意事项。 了解 色谱仪的数据处理系统；仪器操作参数的选择；色谱仪在临床检验中的应用。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="临床检验仪器学笔记 04 第四章 色谱分析仪器与技术">
+<meta property="og:url" content="https://www.cunzher.cn/posts/3e536a05.html">
+<meta property="og:site_name" content="非常医学生">
+<meta property="og:description" content="学习目标  掌握 色谱法的基本原理和分类；色谱仪输出信息；气相色谱仪和高效液相色谱仪的基本结构及对各组成部件的基本要求。 熟悉 色谱仪各组成部分的相互关系；色谱检测器分类及对检测器的主要要求；气相色谱仪和高效液相色谱仪的操作注意事项。 了解 色谱仪的数据处理系统；仪器操作参数的选择；色谱仪在临床检验中的应用。">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-07-31T02:39:20.000Z">
+<meta property="article:modified_time" content="2020-08-18T10:16:32.539Z">
+<meta property="article:author" content="cunzher">
+<meta property="article:tag" content="医学">
+<meta property="article:tag" content="笔记">
+<meta property="article:tag" content="临床检验仪器学">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://www.cunzher.cn/posts/3e536a05.html">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>临床检验仪器学笔记 04 第四章 色谱分析仪器与技术 | 非常医学生</title>
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?30e8c0835cff69550a1dbf8908cc0340";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="非常医学生" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">非常医学生</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">Extraordinary Medical Student</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">67</span></a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th-list fa-fw"></i>分类<span class="badge">14</span></a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-folder fa-fw"></i>归档<span class="badge">68</span></a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>地图</a>
+
+  </li>
+        <li class="menu-item menu-item-link">
+
+    <a href="/links/" rel="section"><i class="fa fa-link fa-fw"></i>友链</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://www.cunzher.cn/posts/3e536a05.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="https://ypcdnsave.cunzher.cn/img/logo.png!/format/webp">
+      <meta itemprop="name" content="cunzher">
+      <meta itemprop="description" content="Viewing life with medical ethics">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="非常医学生">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          临床检验仪器学笔记 04 第四章 色谱分析仪器与技术
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表</span>
+
+              <time title="创建时间：2020-07-31 10:39:20" itemprop="dateCreated datePublished" datetime="2020-07-31T10:39:20+08:00">2020-07-31</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新</span>
+                <time title="修改时间：2020-08-18 18:16:32" itemprop="dateModified" datetime="2020-08-18T18:16:32+08:00">2020-08-18</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BB%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">医学</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/posts/3e536a05.html" class="post-meta-item leancloud_visitors" data-flag-title="临床检验仪器学笔记 04 第四章 色谱分析仪器与技术" title="热度">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">热度：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/posts/3e536a05.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/posts/3e536a05.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>1.7k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>2 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p><strong>学习目标</strong></p>
+<blockquote>
+<p><strong>掌握</strong> 色谱法的基本原理和分类；色谱仪输出信息；气相色谱仪和高效液相色谱仪的基本结构及对各组成部件的基本要求。</p>
+<p><strong>熟悉</strong> 色谱仪各组成部分的相互关系；色谱检测器分类及对检测器的主要要求；气相色谱仪和高效液相色谱仪的操作注意事项。</p>
+<p><strong>了解</strong> 色谱仪的数据处理系统；仪器操作参数的选择；色谱仪在临床检验中的应用。</p>
+</blockquote>
+<a id="more"></a>
+<h1>一、概念</h1>
+<ol>
+<li>
+<p><strong>色谱法</strong> 是利用混合物中各组分在互不相溶的两相（固定相和流动相）之间的分配差异使混合物得到分离的一种方法。</p>
+</li>
+<li>
+<p><strong>色谱仪</strong> 是利用色谱分离和检测技术，对混合物进行先分离后检测，从而实现对多组分混合物进行定性和定量分析的仪器。</p>
+</li>
+<li>
+<p><strong>色谱图</strong> 色谱分离分析过程中，所记录的检测器响应信号随时间变化的曲线。</p>
+</li>
+<li>
+<p><strong>色谱峰</strong> 混合物中分离出的各组分进入检测器，检测器的输出信号随流入组分的浓度或质量的变化出现的一个个的峰形。</p>
+</li>
+<li>
+<p><strong>保留时间</strong> 保留时间是从进样到出现色谱峰最大值所需的时间，保留时间是组分在色谱柱内的总滞留时间。</p>
+</li>
+<li>
+<p><strong>死时间</strong> 在固定相上不发生保留的物质组分，从注入到出现峰的最高点所需时间。</p>
+</li>
+<li>
+<p><strong>死体积</strong> 色谱柱内流动相的体积，在实际中包括从进样系统到检测器的体积</p>
+</li>
+<li>
+<p><strong>程序升温</strong> 是使色谱柱的温度在分离的过程中按照预定的程序逐步增加。</p>
+</li>
+<li>
+<p><strong>常液洗脱</strong> 是在样品的分离过程中自始至终采用相同的流动相和相同的流量来完成样品分离。</p>
+</li>
+<li>
+<p><strong>梯度洗脱</strong> 是在色谱的分离过程中，把两种或更多的不同极性互溶的洗脱液随时间按某种变化的比例混合，使流入色谱柱的洗脱液组成做连续的改变。</p>
+</li>
+</ol>
+<h1>二、色谱法的基本原理</h1>
+<p>色谱法是利用待分离的样品组分在两相中分配的差异来实现分离。</p>
+<p>通过外力使含有样品的流动相通过固定于柱中或平板上与流动相互不相容的固定相表面。</p>
+<p>当流动相中携带的混合物流经固定相时，混合物中的各组分与固定相发生相互作用。</p>
+<p>由于混合物中不同的组分性质和结构不同，因此它们与固定相之间产生的作用力的大小不同随着流动相的移动，混合物在两相间经过反复多次的分配平衡，各组分被固定相保留的时间是不同的，按一定次序从固定相中先后流出，再进行适当的柱后检测，实现混合物中各组分的分离与检测。</p>
+<p>色谱法可分为吸附、分配、离子交换、体积排阻和亲和色谱等。</p>
+<p>色谱分离的两要素是互不相溶的两相以及样品各组分在两相中分配的差异这是实现色谱分离的基础。</p>
+<h1>三、气相色谱仪结构</h1>
+<ol>
+<li>
+<p>气相色谱仪由气路系统、进样系统、色谱柱、检测系统、温度控制系统、数据处理系统、显示系统及电源、电子线路等构成。</p>
+</li>
+<li>
+<p>气路系统由载气源、减压阀、净化器、稳压阀、稳流阀色谱柱及全部连接管道构成。</p>
+</li>
+<li>
+<p>进样系统由载气预热器、取样器、样品分流器和进样气化装置等组成。</p>
+</li>
+<li>
+<p>色谱柱是气相色谱仪的核心，色谱柱应具有适当的尺寸和固定相。色谱柱形状一般有3种，即U形管、盘形管和螺线管。</p>
+</li>
+<li>
+<p>温度控制是通过控制一定体积的恒温箱内部的温度来实现的温度控制有恒温和程序升温两种方式。</p>
+</li>
+<li>
+<p>常用检测器有热导检测器、氢火焰离子化检测器、电子捕获检测器和脉冲放电检测器。</p>
+</li>
+</ol>
+<h1>四、高效液相色谱仪结构</h1>
+<ol>
+<li>
+<p>高效液相色谱仪由溶剂输送系统、进样系统分离系统（色谱柱）温度控制系统、检测系统和数据处理与显示系统等构成。</p>
+</li>
+<li>
+<p>溶剂输送系统具备宽的流速范围和入口压力范围，并能适用于所有的溶剂。溶剂就是流动相。溶剂输送系统主要由液源（储液槽）脱气装置、高压输液泵、流量控制器及梯度洗脱装置等构成。</p>
+</li>
+<li>
+<p>高压输液泵将洗脱液连续不断地送入分离柱来完成色谱分离过程，其性能对分离及检测均有明显的影响。常用的高压泵大致可分为两类:一类是恒压泵，常用的有直接气动泵和气动放大泵等；另一类是恒流泵，如机械注射泵、机械往复式柱塞泵对流动相的控制有常液洗脱和梯度洗脱两种方式。</p>
+</li>
+<li>
+<p>流量控制器主要是一个弹性开口，当色谱柱柱头流动相压力低于最高工作压力时，此弹性开口闭合，流动相全部在色谱系统内部流动。当主反压过高，色谱柱柱头流动相压力高于最高工作压力时，弹性开口打开，排出一部分流动相以降低柱压，保证流动相的正常流动。</p>
+</li>
+<li>
+<p>进样装置有注射器、多通进样阀和自动进样器。</p>
+</li>
+<li>
+<p>分离系统包括色谱柱和填料。</p>
+</li>
+<li>
+<p>检测器有总体性检测器和溶质性检测器两类。总体性检测器是保持溶质在溶剂中，即流动相加已分离组分直接进入检测器检测，即对洗脱液和组分总体的物理性质（如折光率、电导率等）进行检测；溶质性检测器是把从色谱柱流出物的溶质和溶剂分开，让溶质单独进入检测器，如热导检测器、氢火焰离子化检测器、电子捕获检测器等</p>
+</li>
+</ol>
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div></div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="https://ypcdnsave.cunzher.cn/img/wxpay.png!/format/webp" alt="cunzher 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="https://ypcdnsave.cunzher.cn/img/alipay.png!/format/webp" alt="cunzher 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+
+    
+        
+<div class="my_post_copyright">
+  <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
+  
+  <!-- JS库 sweetalert 可修改路径 -->
+  <script src="https://cdn.bootcss.com/jquery/2.0.0/jquery.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <p><span>本文标题:</span><a href="/posts/3e536a05.html">临床检验仪器学笔记 04 第四章 色谱分析仪器与技术</a></p>
+  <p><span>文章作者:</span><a href="/" title="访问  的个人博客"></a></p>
+  <p><span>发布时间:</span>2020年07月31日 - 10:07</p>
+  <p><span>最后更新:</span>2020年08月18日 - 18:08</p>
+  <p><span>原始链接:</span><a href="/posts/3e536a05.html" title="临床检验仪器学笔记 04 第四章 色谱分析仪器与技术">https://www.cunzher.cn/posts/3e536a05.html</a>
+    <span class="copy-path"  title="点击复制文章链接"><i class="fa fa-clipboard" data-clipboard-text="https://www.cunzher.cn/posts/3e536a05.html"  aria-label="复制成功！"></i></span>
+  </p>
+  <p><span>许可协议:</span><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0)">署名-非商业性使用-相同方式共享 4.0 国际</a> 转载请保留原文链接及作者。</p>  
+</div>
+<script> 
+    var clipboard = new Clipboard('.fa-clipboard');
+      $(".fa-clipboard").click(function(){
+      clipboard.on('success', function(){
+        swal({   
+          title: "",   
+          text: '复制成功',
+          icon: "success", 
+          showConfirmButton: true
+          });
+        });
+    });  
+</script>
+
+    
+
+      <footer class="post-footer">
+          
+          <div class="post-tags">
+              <a href="/tags/%E5%8C%BB%E5%AD%A6/" rel="tag"><i class="fa fa-tag"></i> 医学</a>
+              <a href="/tags/%E7%AC%94%E8%AE%B0/" rel="tag"><i class="fa fa-tag"></i> 笔记</a>
+              <a href="/tags/%E4%B8%B4%E5%BA%8A%E6%A3%80%E9%AA%8C%E4%BB%AA%E5%99%A8%E5%AD%A6/" rel="tag"><i class="fa fa-tag"></i> 临床检验仪器学</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/posts/66f291be.html" rel="prev" title="临床检验仪器学笔记 03 第三章 电化学分析仪器与技术">
+      <i class="fa fa-chevron-left"></i> 临床检验仪器学笔记 03 第三章 电化学分析仪器与技术
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/posts/265f0821.html" rel="next" title="临床检验仪器学笔记 05 第五章 生物质谱仪器与技术">
+      临床检验仪器学笔记 05 第五章 生物质谱仪器与技术 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">1.</span> <span class="nav-text">一、概念</span></a></li><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">2.</span> <span class="nav-text">二、色谱法的基本原理</span></a></li><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">3.</span> <span class="nav-text">三、气相色谱仪结构</span></a></li><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">4.</span> <span class="nav-text">四、高效液相色谱仪结构</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="cunzher"
+      src="https://ypcdnsave.cunzher.cn/img/logo.png!/format/webp">
+  <p class="site-author-name" itemprop="name">cunzher</p>
+  <div class="site-description" itemprop="description">Viewing life with medical ethics</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">68</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">14</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">67</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/cunzher" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;cunzher" rel="noopener" target="_blank">GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:cunzher@163.com" title="E-mail → mailto:cunzher@163.com" rel="noopener" target="_blank">E-mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/cunzher" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;cunzher" rel="noopener" target="_blank">Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/QQ" title="Tencent_QQ → &#x2F;QQ">Tencent_QQ</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/406005686" title="BiliBili → https:&#x2F;&#x2F;space.bilibili.com&#x2F;406005686" rel="noopener" target="_blank">BiliBili</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.dxy.cn/bbs/newweb/pc/profile/51698885" title="DXY.CN → https:&#x2F;&#x2F;www.dxy.cn&#x2F;bbs&#x2F;newweb&#x2F;pc&#x2F;profile&#x2F;51698885" rel="noopener" target="_blank">DXY.CN</a>
+      </span>
+  </div>
+  <div class="cc-license motion-element" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2016 – 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">cunzher</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-area"></i>
+    </span>
+      <span class="post-meta-item-text">站点总字数：</span>
+    <span title="站点总字数">284k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
+    <span title="站点阅读时长">4:19</span>
+  <div class="beian"><a href="http://www.beian.miit.gov.cn/" rel="noopener" target="_blank">豫ICP备17038986号 </a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41102502000036" rel="noopener" target="_blank"> | 豫公网安备41102502000036号 </a>
+   <a href="https://icp.gov.moe/?keyword=20201387" target="_blank">|  萌号:20201387</a> |  CDN BY：<a href="https://console.upyun.com/register/?invite=SJIGykTVz" target="_blank" rel="noopener">又拍云</a>
+  </div>
+本站已加入汐萌站长联盟拒绝恶意访客计划，将对恶意访客实行协同封禁<a target="_blank" rel="noopener" href="https://webscan.qianxin.com/safe/detail/?query=www.cunzher.cn"><img border="0" src="https://webscan.qianxin.com/api/authcode?code=419a5d9e3659d4ac7b4e051f71708a26" style="display: none;"/></a>
+</div>
+
+        
+
+
+  <div style="display: none;">
+    <script src="//s95.cnzz.com/z_stat.php?id=1278633615&web_id=1278633615"></script>
+  </div>
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/lozad@1/dist/lozad.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+<script src="/js/bookmark.js"></script>
+
+
+
+
+  
+  <script>
+    (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      bp.src = (curProtocol === 'https') ? 'https://zz.bdstatic.com/linksubmit/push.js' : 'http://push.zhanzhang.baidu.com/push.js';
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : true,
+      notify     : true,
+      appId      : 'rOLafaakRdmy8mBKfqDK9dMm-gzGzoHsz',
+      appKey     : 'QpQPghiiyGayxl8Mw85FaRdf',
+      placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
+      avatar     : 'wavatar',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : true,
+      lang       : 'zh-cn' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : true,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

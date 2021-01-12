@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.3.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/32x32.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/16x16.ico">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"www.cunzher.cn","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"manual"},"fancybox":true,"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="学习目标  掌握 质谱仪的工作原理、组成与分类。 熟悉 质谱仪的性能指标与质谱联用技术。 了解 质谱仪在生物医学领域的应用。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="临床检验仪器学笔记 05 第五章 生物质谱仪器与技术">
+<meta property="og:url" content="https://www.cunzher.cn/posts/265f0821.html">
+<meta property="og:site_name" content="非常医学生">
+<meta property="og:description" content="学习目标  掌握 质谱仪的工作原理、组成与分类。 熟悉 质谱仪的性能指标与质谱联用技术。 了解 质谱仪在生物医学领域的应用。">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-08-04T02:38:20.000Z">
+<meta property="article:modified_time" content="2020-08-18T10:16:21.333Z">
+<meta property="article:author" content="cunzher">
+<meta property="article:tag" content="医学">
+<meta property="article:tag" content="笔记">
+<meta property="article:tag" content="临床检验仪器学">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://www.cunzher.cn/posts/265f0821.html">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>临床检验仪器学笔记 05 第五章 生物质谱仪器与技术 | 非常医学生</title>
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?30e8c0835cff69550a1dbf8908cc0340";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="非常医学生" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">非常医学生</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">Extraordinary Medical Student</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">67</span></a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th-list fa-fw"></i>分类<span class="badge">14</span></a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-folder fa-fw"></i>归档<span class="badge">68</span></a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>地图</a>
+
+  </li>
+        <li class="menu-item menu-item-link">
+
+    <a href="/links/" rel="section"><i class="fa fa-link fa-fw"></i>友链</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://www.cunzher.cn/posts/265f0821.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="https://ypcdnsave.cunzher.cn/img/logo.png!/format/webp">
+      <meta itemprop="name" content="cunzher">
+      <meta itemprop="description" content="Viewing life with medical ethics">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="非常医学生">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          临床检验仪器学笔记 05 第五章 生物质谱仪器与技术
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表</span>
+
+              <time title="创建时间：2020-08-04 10:38:20" itemprop="dateCreated datePublished" datetime="2020-08-04T10:38:20+08:00">2020-08-04</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新</span>
+                <time title="修改时间：2020-08-18 18:16:21" itemprop="dateModified" datetime="2020-08-18T18:16:21+08:00">2020-08-18</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BB%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">医学</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/posts/265f0821.html" class="post-meta-item leancloud_visitors" data-flag-title="临床检验仪器学笔记 05 第五章 生物质谱仪器与技术" title="热度">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">热度：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/posts/265f0821.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/posts/265f0821.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>2.4k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>2 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p><strong>学习目标</strong></p>
+<blockquote>
+<p><strong>掌握</strong> 质谱仪的工作原理、组成与分类。</p>
+<p><strong>熟悉</strong> 质谱仪的性能指标与质谱联用技术。</p>
+<p><strong>了解</strong> 质谱仪在生物医学领域的应用。</p>
+</blockquote>
+<a id="more"></a>
+<h1>一、质谱仪</h1>
+<h2 id="1、质谱仪的工作原理">1、质谱仪的工作原理</h2>
+<p>质谱仪是将分析物气化形成离子后按质荷比分开从而以此进行定性、定量和结构分析的仪器。以离子的质荷比（m/z）为横坐标、离子相对强度为纵坐标排列的图谱称为<strong>质谱图</strong>。</p>
+<h2 id="2、质谱仪的组成">2、质谱仪的组成</h2>
+<p>质谱仪主要由<strong>真空系统</strong>、<strong>进样系统</strong>、<strong>离子源</strong>、<strong>加速区</strong>、<strong>质量分析器</strong>、<strong>检测器</strong>及<strong>计算机系统</strong>所组成，其核心是<strong>离子源</strong>和<strong>质量分析器</strong>。</p>
+<p>（1）<strong>真空系统</strong>：凡是有样品分子和离子存在的区域都必须处于真空状态，以减少干扰及延长灯丝寿命。</p>
+<p>（2）<strong>进样系统</strong>：分为直接进样和通过接口进样两种方式。</p>
+<p>（3）<strong>离子源</strong>：离子源使气化样品中的原子分子电离成正离子。</p>
+<p>常见的电离方式有电子电离（EI）、化学电离（CI）、场电离（FI）、场解吸（FD）、快原子轰击（FAB）、电喷雾电离（ESI）、大气压化学电离（APCI）、基质辅助激光解吸电离（ MALDI）和电喷雾解吸电离（DE-SI）等。其中，EI属于硬电离，其他都属于软电离。软电离方式易得到准分子离子峰，硬电离方式一般只能得到碎片离子。</p>
+<p>为得到更多的离子质谱结构信息，常在离子源后面加一种碰撞装置进行碰撞诱导断裂（CID）或另进行源后衰变（PSD）。</p>
+<p>（4）<strong>加速区</strong>：包括回旋加速器、直线加速器等，在增加能量后，因其轨迹半径不同而初步分开。</p>
+<p>（5）<strong>质量分析器</strong>：将离子源产生的离子按照质荷比的大小分离聚焦。常见的有6种:只用磁场的单聚焦分析器、既用电场又用磁场的双聚焦分析器、傅里叶变换离子回旋共振分析器、只用电场的四极杆分析器、离子阱分析器既不用电场也不用磁场的飞行时间分析器。其中，分辨率本来较低的飞行时间分析器如果与MALD方式、离子延迟引出技术和离子反射技术等联用，其性能将得到极大提高，在生物质谱中发挥重要作用。</p>
+<p>（6）<strong>检测器</strong>：包括电子倍增器、光电倍增管和电荷耦合器件。</p>
+<p>（7）<strong>计算机系统</strong>：运用工作站软件采集、处理与输出质谱数据。</p>
+<h2 id="3、质谱仪的分类">3、质谱仪的分类</h2>
+<p>质谱仪通常按质量分析器的种类分为5种：</p>
+<ol>
+<li>磁质谱仪（单聚焦质谱仪、双聚焦质谱仪）</li>
+<li>四极杆质谱仪（Q-MS）</li>
+<li>离子阱质谱仪（IT-MS）</li>
+<li>飞行时间质谱仪（TOF-MS）</li>
+<li>傅里叶变换质谱仪（FT-MS）</li>
+</ol>
+<h2 id="4、质谱仪的性能指标">4、质谱仪的性能指标</h2>
+<p>质谱仪的主要性能指标是<strong>分辨率</strong>、<strong>灵敏度</strong>、<strong>质量范围</strong>、<strong>质量稳定性</strong>和<strong>质量精度</strong>等。其定义与常见的临床检验仪器性能指标有所不同，要注意区别。</p>
+<p>（1）<strong>分辨率</strong>：是指把相邻两个质谱峰分开的能力，R＝M/△M。</p>
+<p>（2）<strong>灵敏度</strong>：常用绝对灵敏度信噪比来表示。</p>
+<p>（3）<strong>质量范围</strong>：质谱仪所检测的离子质荷比（m/z）范围。</p>
+<p>（4）<strong>质量稳定性</strong>：仪器在工作时质量稳定的情况，通常用一定时间内质量漂移的幅度来表示。</p>
+<p>（5）<strong>质量分析器</strong>：测定质量的精确程度，常用相对百分比表示。</p>
+<hr>
+<h1>二、质谱联用技术</h1>
+<h2 id="1、气相色谱-质谱联用技术">1、气相色谱-质谱联用技术</h2>
+<p>GC-MS主要由3部分组成：气相色谱部分、质谱部分和计算机系统。</p>
+<p>适宜分析小分子、易挥发、热稳定能气化的化合物。通过EI得到的谱图，可与标准谱库对比。</p>
+<p>在气相色谱部分，在一定温度下混合样品中不同化合物在流动的气相和固定的液相中分配系数的不同被分离成单个组分，然后逐一进入质谱仪进行鉴定。</p>
+<p>如果色谱仪使用填充柱，必须经过接口装置将色谱载气去除以保证高真空，再使样品气进入质谱仪。</p>
+<p>如果色谱仪使用毛细管柱，则不需要接口装置，基本不会破坏质谱仪真空GC-MS离子源主要是EI源和CI源。质量分析器中使用最多的是四极杆质谱仪。</p>
+<p>色谱-质谱联用技术充分发挥了色谱仪的分离特长与质谱仪的定性鉴定特长，使分离和鉴定同时进行。</p>
+<h2 id="2、液相色谱质谱联用技术">2、液相色谱质谱联用技术</h2>
+<p>LC-MS系统主要由4部分组成：高效液相色谱部分、接口装置（同时也是离子源）、质谱部分和计算机系统。</p>
+<p>适宜分析不挥发性化合物、极性化合物热不稳定化合物、大分子化合物（包括蛋白质多肽、多聚物等），没有商品化的谱库可对比查询，只能自己建库或解析。</p>
+<p>由于LC液相洗脱剂的流量较气相色谱的载气要大得多，因而LC-MS联用必须通过接口（装置），以去除溶剂并使样品离子化。</p>
+<p>比较常用的LC-MS接口是电喷雾接口和大气压化学电离接口，兼作电喷雾电离（ESI）和大气压化学电离（APC）的离子源。</p>
+<h2 id="3、毛细管电泳质谱联用技术">3、毛细管电泳质谱联用技术</h2>
+<p>CE是一种基于样品各组分间淌度和分配行为差异而实现分离的电泳新技术，与MS联用综合了两者优点，在蛋白质组学、化学药物研究、医学检验以及法医学等领域均已显示了广阔的前景。</p>
+<p>CE-MS系统主要由4部分组成：毛细管电泳部分、接口装置、质谱部分和计算机系统。</p>
+<h2 id="4、串联质谱技术">4、串联质谱技术</h2>
+<p>串联质谱技术（MS/MS）是时间上或空间上两级或以上的质量分析器的结合，可以得到有关分子离子和碎片离子的更多结构信息。</p>
+<p>一般是指空间串联质谱技术，即两级或两级以上的质量分析器与碰撞活化室串联。比单一的MS抗干扰能力更强，测定快速、更特异、更灵敏。</p>
+<hr>
+<h1>三、质谱仪在生物医学领域的应用</h1>
+<h2 id="1、小分子生物标志物检测">1、小分子生物标志物检测</h2>
+<p>质谱在检验医学中应用最早的是同位素稀释-质谱法（ID-MS），它是测定无机离子、单糖类、脂类、小分子含氮化合物等小分子生物标志物的决定性方法，其一级参考测量程序能溯源至SI单位。还可检测奶粉中维生素D等。</p>
+<h2 id="2、大分子生物标志物检测">2、大分子生物标志物检测</h2>
+<p>可检测蛋白质、核酸等。</p>
+<p>（1）<strong>质谱与蛋白质组学研究</strong>：通过肽质量指纹图谱法（PMF）等鉴定蛋白质，用核素标记蛋白质再酶解后用LC-MS对其定量分析，识别蛋白质翻译后的修饰信息，研究蛋白质之间的相互作用等。</p>
+<p>（2）<strong>质谱与基因组学研究</strong>：进行单核苷酸多态性（SNP）分型、短串联重复序列（STRs）分析、寡聚核苷酸片段的序列分析。</p>
+<p>（3）<strong>质谱与肿瘤标志物研究</strong>：生物质谱技术最有希望成为肿瘤的一种早期检测方法。</p>
+<h2 id="3、微生物鉴定">3、微生物鉴定</h2>
+<p>通过每种细菌分离物的生物质谱，可得到每种细菌唯一的肽模式或指纹图谱来鉴定细菌的属、种、株。</p>
+<h2 id="4、治疗药物监测">4、治疗药物监测</h2>
+<p>LC-MS检测药物准确、快速，几乎可以用于所有药物检测，如抗癌药、免疫抑制剂、抗生素以及心血管药，有望成为药物检测的最强有力的工具。</p>
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div></div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="https://ypcdnsave.cunzher.cn/img/wxpay.png!/format/webp" alt="cunzher 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="https://ypcdnsave.cunzher.cn/img/alipay.png!/format/webp" alt="cunzher 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+
+    
+        
+<div class="my_post_copyright">
+  <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
+  
+  <!-- JS库 sweetalert 可修改路径 -->
+  <script src="https://cdn.bootcss.com/jquery/2.0.0/jquery.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <p><span>本文标题:</span><a href="/posts/265f0821.html">临床检验仪器学笔记 05 第五章 生物质谱仪器与技术</a></p>
+  <p><span>文章作者:</span><a href="/" title="访问  的个人博客"></a></p>
+  <p><span>发布时间:</span>2020年08月04日 - 10:08</p>
+  <p><span>最后更新:</span>2020年08月18日 - 18:08</p>
+  <p><span>原始链接:</span><a href="/posts/265f0821.html" title="临床检验仪器学笔记 05 第五章 生物质谱仪器与技术">https://www.cunzher.cn/posts/265f0821.html</a>
+    <span class="copy-path"  title="点击复制文章链接"><i class="fa fa-clipboard" data-clipboard-text="https://www.cunzher.cn/posts/265f0821.html"  aria-label="复制成功！"></i></span>
+  </p>
+  <p><span>许可协议:</span><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0)">署名-非商业性使用-相同方式共享 4.0 国际</a> 转载请保留原文链接及作者。</p>  
+</div>
+<script> 
+    var clipboard = new Clipboard('.fa-clipboard');
+      $(".fa-clipboard").click(function(){
+      clipboard.on('success', function(){
+        swal({   
+          title: "",   
+          text: '复制成功',
+          icon: "success", 
+          showConfirmButton: true
+          });
+        });
+    });  
+</script>
+
+    
+
+      <footer class="post-footer">
+          
+          <div class="post-tags">
+              <a href="/tags/%E5%8C%BB%E5%AD%A6/" rel="tag"><i class="fa fa-tag"></i> 医学</a>
+              <a href="/tags/%E7%AC%94%E8%AE%B0/" rel="tag"><i class="fa fa-tag"></i> 笔记</a>
+              <a href="/tags/%E4%B8%B4%E5%BA%8A%E6%A3%80%E9%AA%8C%E4%BB%AA%E5%99%A8%E5%AD%A6/" rel="tag"><i class="fa fa-tag"></i> 临床检验仪器学</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/posts/3e536a05.html" rel="prev" title="临床检验仪器学笔记 04 第四章 色谱分析仪器与技术">
+      <i class="fa fa-chevron-left"></i> 临床检验仪器学笔记 04 第四章 色谱分析仪器与技术
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/posts/3b09d34.html" rel="next" title="采访抗疫英雄，弘扬时代风采">
+      采访抗疫英雄，弘扬时代风采 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">1.</span> <span class="nav-text">一、质谱仪</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1%E3%80%81%E8%B4%A8%E8%B0%B1%E4%BB%AA%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86"><span class="nav-number">1.1.</span> <span class="nav-text">1、质谱仪的工作原理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2%E3%80%81%E8%B4%A8%E8%B0%B1%E4%BB%AA%E7%9A%84%E7%BB%84%E6%88%90"><span class="nav-number">1.2.</span> <span class="nav-text">2、质谱仪的组成</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3%E3%80%81%E8%B4%A8%E8%B0%B1%E4%BB%AA%E7%9A%84%E5%88%86%E7%B1%BB"><span class="nav-number">1.3.</span> <span class="nav-text">3、质谱仪的分类</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4%E3%80%81%E8%B4%A8%E8%B0%B1%E4%BB%AA%E7%9A%84%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87"><span class="nav-number">1.4.</span> <span class="nav-text">4、质谱仪的性能指标</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">2.</span> <span class="nav-text">二、质谱联用技术</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1%E3%80%81%E6%B0%94%E7%9B%B8%E8%89%B2%E8%B0%B1-%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E6%8A%80%E6%9C%AF"><span class="nav-number">2.1.</span> <span class="nav-text">1、气相色谱-质谱联用技术</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2%E3%80%81%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B0%B1%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E6%8A%80%E6%9C%AF"><span class="nav-number">2.2.</span> <span class="nav-text">2、液相色谱质谱联用技术</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3%E3%80%81%E6%AF%9B%E7%BB%86%E7%AE%A1%E7%94%B5%E6%B3%B3%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E6%8A%80%E6%9C%AF"><span class="nav-number">2.3.</span> <span class="nav-text">3、毛细管电泳质谱联用技术</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4%E3%80%81%E4%B8%B2%E8%81%94%E8%B4%A8%E8%B0%B1%E6%8A%80%E6%9C%AF"><span class="nav-number">2.4.</span> <span class="nav-text">4、串联质谱技术</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link"><span class="nav-number">3.</span> <span class="nav-text">三、质谱仪在生物医学领域的应用</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1%E3%80%81%E5%B0%8F%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E6%A0%87%E5%BF%97%E7%89%A9%E6%A3%80%E6%B5%8B"><span class="nav-number">3.1.</span> <span class="nav-text">1、小分子生物标志物检测</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2%E3%80%81%E5%A4%A7%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E6%A0%87%E5%BF%97%E7%89%A9%E6%A3%80%E6%B5%8B"><span class="nav-number">3.2.</span> <span class="nav-text">2、大分子生物标志物检测</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3%E3%80%81%E5%BE%AE%E7%94%9F%E7%89%A9%E9%89%B4%E5%AE%9A"><span class="nav-number">3.3.</span> <span class="nav-text">3、微生物鉴定</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4%E3%80%81%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9%E7%9B%91%E6%B5%8B"><span class="nav-number">3.4.</span> <span class="nav-text">4、治疗药物监测</span></a></li></ol></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="cunzher"
+      src="https://ypcdnsave.cunzher.cn/img/logo.png!/format/webp">
+  <p class="site-author-name" itemprop="name">cunzher</p>
+  <div class="site-description" itemprop="description">Viewing life with medical ethics</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">68</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">14</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">67</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/cunzher" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;cunzher" rel="noopener" target="_blank">GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:cunzher@163.com" title="E-mail → mailto:cunzher@163.com" rel="noopener" target="_blank">E-mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/cunzher" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;cunzher" rel="noopener" target="_blank">Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/QQ" title="Tencent_QQ → &#x2F;QQ">Tencent_QQ</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/406005686" title="BiliBili → https:&#x2F;&#x2F;space.bilibili.com&#x2F;406005686" rel="noopener" target="_blank">BiliBili</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.dxy.cn/bbs/newweb/pc/profile/51698885" title="DXY.CN → https:&#x2F;&#x2F;www.dxy.cn&#x2F;bbs&#x2F;newweb&#x2F;pc&#x2F;profile&#x2F;51698885" rel="noopener" target="_blank">DXY.CN</a>
+      </span>
+  </div>
+  <div class="cc-license motion-element" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2016 – 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">cunzher</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-area"></i>
+    </span>
+      <span class="post-meta-item-text">站点总字数：</span>
+    <span title="站点总字数">284k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
+    <span title="站点阅读时长">4:19</span>
+  <div class="beian"><a href="http://www.beian.miit.gov.cn/" rel="noopener" target="_blank">豫ICP备17038986号 </a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41102502000036" rel="noopener" target="_blank"> | 豫公网安备41102502000036号 </a>
+   <a href="https://icp.gov.moe/?keyword=20201387" target="_blank">|  萌号:20201387</a> |  CDN BY：<a href="https://console.upyun.com/register/?invite=SJIGykTVz" target="_blank" rel="noopener">又拍云</a>
+  </div>
+本站已加入汐萌站长联盟拒绝恶意访客计划，将对恶意访客实行协同封禁<a target="_blank" rel="noopener" href="https://webscan.qianxin.com/safe/detail/?query=www.cunzher.cn"><img border="0" src="https://webscan.qianxin.com/api/authcode?code=419a5d9e3659d4ac7b4e051f71708a26" style="display: none;"/></a>
+</div>
+
+        
+
+
+  <div style="display: none;">
+    <script src="//s95.cnzz.com/z_stat.php?id=1278633615&web_id=1278633615"></script>
+  </div>
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/lozad@1/dist/lozad.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+<script src="/js/bookmark.js"></script>
+
+
+
+
+  
+  <script>
+    (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      bp.src = (curProtocol === 'https') ? 'https://zz.bdstatic.com/linksubmit/push.js' : 'http://push.zhanzhang.baidu.com/push.js';
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : true,
+      notify     : true,
+      appId      : 'rOLafaakRdmy8mBKfqDK9dMm-gzGzoHsz',
+      appKey     : 'QpQPghiiyGayxl8Mw85FaRdf',
+      placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
+      avatar     : 'wavatar',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : true,
+      lang       : 'zh-cn' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : true,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
