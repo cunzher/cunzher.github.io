@@ -490,6 +490,53 @@
       </tags>
   </entry>
   <entry>
+    <title>PicPlus——极简好用的移动端图床工具</title>
+    <url>/posts/9811bd3e.html</url>
+    <content><![CDATA[<p>经常使用 MarkDown 进行写作的同学们一定对 Typora 这款软件不陌生，它是桌面端 Markdown 写作的不二之选，配合 PicGo 进行图文创作简直不要太方便。</p>
+<p>不过，如果我想在外出期间进行灵感写作，总是带着笔记本似乎并不舒适，于是我有了《纯纯写作》，一款支持 Markdown 语法的声称永不丢失数据的移动端极简纯文本写作软件。不过，用它来写作，总是遇到一个问题：插图好麻烦。于是 … …<a id="more"></a></p>
+<p>前段时间我在酷安看到了一款移动端的图床工具PicPlus，于是下载来把玩了一番。</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703133151.webp!colorimg" alt="PicPlus"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130046.jpg!colorimg" alt="主界面"></p>
+<p>这是 PicPlus 的主界面，极简风的设计直戳小心脏，几乎是瞬间就爱上了；</p>
+<p>首页可以查看你之前上传过的图片，上传方式可以选择本地相册上传，当然也可以选择直接拍照上传以及链接上传；</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130406.png!colorimg" alt="更多上传"></p>
+<p>展开侧栏，我们可以看到 PicPlus 的功能菜单，你可以在这里选择图床列表、进行数据的备份，浏览收藏的图片以及查看帮助文档；</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130704.jpg!colorimg" alt="侧栏"></p>
+<p>和 PicGo 相比，PicPlus 可供选择的图床要多一些</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130832.png!colorimg" alt="PicGo的图床列表"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131015.jpg!colorimg" alt="PicPlus的图床列表"></p>
+<p>数据备份主要是针对上述图床的配置进行备份，支持本地备份以及WebDAV备份。</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131322.jpg!colorimg" alt="数据备份"></p>
+<p>我个人倾向于使用坚果云的WebDAV服务，简单高效。</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131252.jpg!colorimg" alt="WebDAV"></p>
+<p>此处的备份策略是付费功能，付费计划我们稍后再讲~</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131505.jpg!colorimg" alt="备份策略"></p>
+<p>收藏夹里列出的是你收藏的图片，可以直接在这里浏览、拷贝、分享等等</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131535.jpg!colorimg" alt="我的收藏"></p>
+<p>值得一提的是，PicPlus 可以让你编辑 Markdown 图片标题，不是像其他软件一样直接使用文件名称，在图片详情中你可以查看关于这张图片的详细信息；</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131828.jpg!colorimg" alt="图片详情"></p>
+<p>在设置页面，你可以进行较为全面的DIY，图片上传前确认、图片压缩开关、设置压缩质量以及格式化、自动复制；</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132024.jpg!colorimg" alt="设置"></p>
+<p>你可以格式化为Markdown、Html、BBCode、Url</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132248.png!colorimg" alt="格式化"></p>
+<p>作者还提供了一些实验功能供体验，包括搜狗图床、图壳图床、自动打开相册等</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132355.png!colorimg" alt="实验室"></p>
+<p>对于免费用户，每个图床每月上传限制为20张图片，超过后需要等到下个月才能继续使用，付费后无限制；</p>
+<p>激活码分为年付和永久买断两类，目前年费10元软妹币，永久28元；</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132457.jpg!colorimg" alt="付费支持"></p>
+<p>对于一（tuo）般（geng）作者来讲，免费是足够使用的，不过，开发者这么酷，为什么不请他嚯一杯咖啡呢</p>
+<p><img src="https://cdn.jsdelivr.net/gh/blogimg/emotion/custom/21.webp" alt=""></p>
+<p>下载链接在这里啦~</p>
+<p><a href="https://www.coolapk.com/apk/name.gudong.pic">https://www.coolapk.com/apk/name.gudong.pic</a></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>收藏</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>XMind2020——最棒的思维导图软件</title>
     <url>/posts/b4228369.html</url>
     <content><![CDATA[<p>XMind是一款让你专注思维，捕捉每一个灵感瞬间的 App。每当你有一个想法，XMind帮你专注于它的扩展延伸和梳理，融合艺术与创造力，让思维清晰可见。你可以创建 workflow，接下来心无旁骛投入工作流程；以灵感为中心，在无限的脑图幕布上延伸想法；随手记录点滴灵感、待办清单、会议记录或是项目规划，尽情享受逻辑思维。<a id="more"></a></p>
@@ -643,35 +690,6 @@
       </tags>
   </entry>
   <entry>
-    <title>病理学思维导图 第二章 损伤的修复</title>
-    <url>/posts/75419280.html</url>
-    <content><![CDATA[<p>病理学第二章损伤的修复的思维导图<a id="more"></a></p>
-<hr>
-<h2 id="XMind下载">XMind下载</h2>
-<p>点击下载：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%8D%9F%E4%BC%A4%E7%9A%84%E4%BF%AE%E5%A4%8D.xmind">第二章 损伤的修复.xmind</a></p>
-<p>文件类型：xmind</p>
-<p>文件大小：231.41 KB</p>
-<hr>
-<h2 id="PNG下载">PNG下载</h2>
-<p>目标另存为：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%8D%9F%E4%BC%A4%E7%9A%84%E4%BF%AE%E5%A4%8D.png">第二章 损伤的修复.png</a></p>
-<p>文件类型：png</p>
-<p>文件大小：1.32 MB</p>
-<hr>
-<h2 id="在线预览">在线预览</h2>
-<p>哇，好像啥也看不到。。。</p>
-<p><img src="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%8D%9F%E4%BC%A4%E7%9A%84%E4%BF%AE%E5%A4%8D.png!/format/webp" alt="病理学思维导图 第二章 损伤的修复"></p>
-]]></content>
-      <categories>
-        <category>医学</category>
-        <category>病理学</category>
-      </categories>
-      <tags>
-        <tag>医学</tag>
-        <tag>思维导图</tag>
-        <tag>病理学</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>病理学思维导图 第三章 局部血液循环障碍</title>
     <url>/posts/c8062859.html</url>
     <content><![CDATA[<p>病理学第三章局部血液循环障碍的思维导图<a id="more"></a></p>
@@ -701,50 +719,32 @@
       </tags>
   </entry>
   <entry>
-    <title>PicPlus——极简好用的移动端图床工具</title>
-    <url>/posts/9811bd3e.html</url>
-    <content><![CDATA[<p>经常使用 MarkDown 进行写作的同学们一定对 Typora 这款软件不陌生，它是桌面端 Markdown 写作的不二之选，配合 PicGo 进行图文创作简直不要太方便。</p>
-<p>不过，如果我想在外出期间进行灵感写作，总是带着笔记本似乎并不舒适，于是我有了《纯纯写作》，一款支持 Markdown 语法的声称永不丢失数据的移动端极简纯文本写作软件。不过，用它来写作，总是遇到一个问题：插图好麻烦。于是 … …<a id="more"></a></p>
-<p>前段时间我在酷安看到了一款移动端的图床工具PicPlus，于是下载来把玩了一番。</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703133151.webp!colorimg" alt="PicPlus"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130046.jpg!colorimg" alt="主界面"></p>
-<p>这是 PicPlus 的主界面，极简风的设计直戳小心脏，几乎是瞬间就爱上了；</p>
-<p>首页可以查看你之前上传过的图片，上传方式可以选择本地相册上传，当然也可以选择直接拍照上传以及链接上传；</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130406.png!colorimg" alt="更多上传"></p>
-<p>展开侧栏，我们可以看到 PicPlus 的功能菜单，你可以在这里选择图床列表、进行数据的备份，浏览收藏的图片以及查看帮助文档；</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130704.jpg!colorimg" alt="侧栏"></p>
-<p>和 PicGo 相比，PicPlus 可供选择的图床要多一些</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703130832.png!colorimg" alt="PicGo的图床列表"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131015.jpg!colorimg" alt="PicPlus的图床列表"></p>
-<p>数据备份主要是针对上述图床的配置进行备份，支持本地备份以及WebDAV备份。</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131322.jpg!colorimg" alt="数据备份"></p>
-<p>我个人倾向于使用坚果云的WebDAV服务，简单高效。</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131252.jpg!colorimg" alt="WebDAV"></p>
-<p>此处的备份策略是付费功能，付费计划我们稍后再讲~</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131505.jpg!colorimg" alt="备份策略"></p>
-<p>收藏夹里列出的是你收藏的图片，可以直接在这里浏览、拷贝、分享等等</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131535.jpg!colorimg" alt="我的收藏"></p>
-<p>值得一提的是，PicPlus 可以让你编辑 Markdown 图片标题，不是像其他软件一样直接使用文件名称，在图片详情中你可以查看关于这张图片的详细信息；</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703131828.jpg!colorimg" alt="图片详情"></p>
-<p>在设置页面，你可以进行较为全面的DIY，图片上传前确认、图片压缩开关、设置压缩质量以及格式化、自动复制；</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132024.jpg!colorimg" alt="设置"></p>
-<p>你可以格式化为Markdown、Html、BBCode、Url</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132248.png!colorimg" alt="格式化"></p>
-<p>作者还提供了一些实验功能供体验，包括搜狗图床、图壳图床、自动打开相册等</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132355.png!colorimg" alt="实验室"></p>
-<p>对于免费用户，每个图床每月上传限制为20张图片，超过后需要等到下个月才能继续使用，付费后无限制；</p>
-<p>激活码分为年付和永久买断两类，目前年费10元软妹币，永久28元；</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200703132457.jpg!colorimg" alt="付费支持"></p>
-<p>对于一（tuo）般（geng）作者来讲，免费是足够使用的，不过，开发者这么酷，为什么不请他嚯一杯咖啡呢</p>
-<p><img src="https://cdn.jsdelivr.net/gh/blogimg/emotion/custom/21.webp" alt=""></p>
-<p>下载链接在这里啦~</p>
-<p><a href="https://www.coolapk.com/apk/name.gudong.pic">https://www.coolapk.com/apk/name.gudong.pic</a></p>
+    <title>病理学思维导图 第二章 损伤的修复</title>
+    <url>/posts/75419280.html</url>
+    <content><![CDATA[<p>病理学第二章损伤的修复的思维导图<a id="more"></a></p>
+<hr>
+<h2 id="XMind下载">XMind下载</h2>
+<p>点击下载：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%8D%9F%E4%BC%A4%E7%9A%84%E4%BF%AE%E5%A4%8D.xmind">第二章 损伤的修复.xmind</a></p>
+<p>文件类型：xmind</p>
+<p>文件大小：231.41 KB</p>
+<hr>
+<h2 id="PNG下载">PNG下载</h2>
+<p>目标另存为：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%8D%9F%E4%BC%A4%E7%9A%84%E4%BF%AE%E5%A4%8D.png">第二章 损伤的修复.png</a></p>
+<p>文件类型：png</p>
+<p>文件大小：1.32 MB</p>
+<hr>
+<h2 id="在线预览">在线预览</h2>
+<p>哇，好像啥也看不到。。。</p>
+<p><img src="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%8D%9F%E4%BC%A4%E7%9A%84%E4%BF%AE%E5%A4%8D.png!/format/webp" alt="病理学思维导图 第二章 损伤的修复"></p>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>医学</category>
+        <category>病理学</category>
       </categories>
       <tags>
-        <tag>收藏</tag>
+        <tag>医学</tag>
+        <tag>思维导图</tag>
+        <tag>病理学</tag>
       </tags>
   </entry>
   <entry>
@@ -808,36 +808,6 @@
       </tags>
   </entry>
   <entry>
-    <title>病理学思维导图 第十章 呼吸系统疾病</title>
-    <url>/posts/58bdff10.html</url>
-    <content><![CDATA[<p>病理学第十章 呼吸系统疾病的思维导图<a id="more"></a></p>
-<hr>
-<h2 id="XMind下载">XMind下载</h2>
-<p>点击下载：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.xmind">第十章 呼吸系统疾病.xmind</a></p>
-<p>文件类型：xmind</p>
-<p>文件大小：444.05 KB</p>
-<hr>
-<h2 id="PNG下载">PNG下载</h2>
-<p>目标另存为：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.png">第十章 呼吸系统疾病.png</a></p>
-<p>文件类型：png</p>
-<p>文件大小：3.61 MB</p>
-<hr>
-<h2 id="在线预览">在线预览</h2>
-<p>哇，好像啥也看不到。。。【图片文件大，请耐心等待加载】</p>
-<p><img src="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.png!colorimg" alt="病理学思维导图 第十章 呼吸系统疾病"></p>
-]]></content>
-      <categories>
-        <category>医学</category>
-        <category>病理学</category>
-      </categories>
-      <tags>
-        <tag>医学</tag>
-        <tag>思维导图</tag>
-        <tag>病理学</tag>
-        <tag>呼吸系统疾病</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>病理学思维导图 第九章 心血管系统疾病</title>
     <url>/posts/95550637.html</url>
     <content><![CDATA[<p>病理学第九章 心血管系统疾病的思维导图<a id="more"></a></p>
@@ -868,6 +838,36 @@
       </tags>
   </entry>
   <entry>
+    <title>病理学思维导图 第十章 呼吸系统疾病</title>
+    <url>/posts/58bdff10.html</url>
+    <content><![CDATA[<p>病理学第十章 呼吸系统疾病的思维导图<a id="more"></a></p>
+<hr>
+<h2 id="XMind下载">XMind下载</h2>
+<p>点击下载：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.xmind">第十章 呼吸系统疾病.xmind</a></p>
+<p>文件类型：xmind</p>
+<p>文件大小：444.05 KB</p>
+<hr>
+<h2 id="PNG下载">PNG下载</h2>
+<p>目标另存为：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.png">第十章 呼吸系统疾病.png</a></p>
+<p>文件类型：png</p>
+<p>文件大小：3.61 MB</p>
+<hr>
+<h2 id="在线预览">在线预览</h2>
+<p>哇，好像啥也看不到。。。【图片文件大，请耐心等待加载】</p>
+<p><img src="https://ypcdnsave.cunzher.cn/img/blxmap/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E5%91%BC%E5%90%B8%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85.png!colorimg" alt="病理学思维导图 第十章 呼吸系统疾病"></p>
+]]></content>
+      <categories>
+        <category>医学</category>
+        <category>病理学</category>
+      </categories>
+      <tags>
+        <tag>医学</tag>
+        <tag>思维导图</tag>
+        <tag>病理学</tag>
+        <tag>呼吸系统疾病</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>病理学思维导图 第十一章 消化系统疾病</title>
     <url>/posts/351b81d7.html</url>
     <content><![CDATA[<p>病理学第十一章 消化系统疾病的思维导图<a id="more"></a></p>
@@ -895,6 +895,42 @@
         <tag>思维导图</tag>
         <tag>病理学</tag>
         <tag>消化系统疾病</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>病理学思维导图 第十四章 生殖系统疾病和乳腺疾病</title>
+    <url>/posts/d4f56e9.html</url>
+    <content><![CDATA[<p>病理学第十四章 生殖系统疾病和乳腺疾病的思维导图<a id="more"></a></p>
+<hr>
+<h2 id="XMind下载">XMind下载</h2>
+<p>点击下载：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/14%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0%20%E7%94%9F%E6%AE%96%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85%E5%92%8C%E4%B9%B3%E8%85%BA%E7%96%BE%E7%97%85.xmind">第十四章 生殖系统疾病和乳腺疾病.xmind</a></p>
+<p>文件类型：xmind</p>
+<p>文件大小：116.85 KB</p>
+<hr>
+<h2 id="PNG下载">PNG下载</h2>
+<p>多文件，暂不提供下载，请直接下载XMind</p>
+<hr>
+<h2 id="在线预览">在线预览</h2>
+<p>【图片文件大，请耐心等待加载】</p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180454.png!/format/webp" alt="第十四章 生殖系统疾病和乳腺疾病"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180521.png!/format/webp" alt="子 宫 颈 疾 病"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180533.png!/format/webp" alt="子 宫 体 疾 病"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180538.png!/format/webp" alt="滋 养 层 细 胞 疾 病"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180714.png!/format/webp" alt="卵 巢 肿 瘤"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180724.png!/format/webp" alt="前 列 腺 疾 病"></p>
+<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180729.png!/format/webp" alt="睾 丸 和 阴 茎 肿 瘤"></p>
+<p>需要注意的是这次的导图不再是一个标签结束了，分成了好多个，可以点击链接快速跳转</p>
+]]></content>
+      <categories>
+        <category>医学</category>
+        <category>病理学</category>
+      </categories>
+      <tags>
+        <tag>医学</tag>
+        <tag>思维导图</tag>
+        <tag>病理学</tag>
+        <tag>生殖系统疾病</tag>
+        <tag>乳腺疾病</tag>
       </tags>
   </entry>
   <entry>
@@ -935,42 +971,6 @@
         <tag>思维导图</tag>
         <tag>病理学</tag>
         <tag>泌尿系统疾病</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>病理学思维导图 第十四章 生殖系统疾病和乳腺疾病</title>
-    <url>/posts/d4f56e9.html</url>
-    <content><![CDATA[<p>病理学第十四章 生殖系统疾病和乳腺疾病的思维导图<a id="more"></a></p>
-<hr>
-<h2 id="XMind下载">XMind下载</h2>
-<p>点击下载：<a href="https://ypcdnsave.cunzher.cn/img/blxmap/14%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0%20%E7%94%9F%E6%AE%96%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85%E5%92%8C%E4%B9%B3%E8%85%BA%E7%96%BE%E7%97%85.xmind">第十四章 生殖系统疾病和乳腺疾病.xmind</a></p>
-<p>文件类型：xmind</p>
-<p>文件大小：116.85 KB</p>
-<hr>
-<h2 id="PNG下载">PNG下载</h2>
-<p>多文件，暂不提供下载，请直接下载XMind</p>
-<hr>
-<h2 id="在线预览">在线预览</h2>
-<p>【图片文件大，请耐心等待加载】</p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180454.png!/format/webp" alt="第十四章 生殖系统疾病和乳腺疾病"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180521.png!/format/webp" alt="子 宫 颈 疾 病"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180533.png!/format/webp" alt="子 宫 体 疾 病"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180538.png!/format/webp" alt="滋 养 层 细 胞 疾 病"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180714.png!/format/webp" alt="卵 巢 肿 瘤"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180724.png!/format/webp" alt="前 列 腺 疾 病"></p>
-<p><img src="https://ypcdnsave.cunzher.cn/picgo/20200619180729.png!/format/webp" alt="睾 丸 和 阴 茎 肿 瘤"></p>
-<p>需要注意的是这次的导图不再是一个标签结束了，分成了好多个，可以点击链接快速跳转</p>
-]]></content>
-      <categories>
-        <category>医学</category>
-        <category>病理学</category>
-      </categories>
-      <tags>
-        <tag>医学</tag>
-        <tag>思维导图</tag>
-        <tag>病理学</tag>
-        <tag>生殖系统疾病</tag>
-        <tag>乳腺疾病</tag>
       </tags>
   </entry>
   <entry>
@@ -1977,70 +1977,6 @@
       </tags>
   </entry>
   <entry>
-    <title>临床分子生物学检验技术笔记 第二章 临床分子生物学检验与分子生物标志物</title>
-    <url>/posts/b73eb6d7.html</url>
-    <content><![CDATA[<p><strong>学习目标</strong></p>
-<blockquote>
-<ol>
-<li><strong>掌握</strong> 分子生物标志物的概念及分类，核酸分子生物标志物的分类，基因突变的概念及类型，基因多态性的概念及类型，DNA甲基化的概念，转录产物标志物的类型和原理，循环核酸的应用。</li>
-<li><strong>熟悉</strong> 生物标志物的概念及分类，病毒、原核生物、真核生物及人类基因组的结构及特征，线粒体DNA生物标志物的特点，高通量技术与分子生物标志物的发现。</li>
-<li><strong>了解</strong> 分子生物标志物的特征，生物标志物发现的基本统计学方法和生物标志物的评估阶段。</li>
-</ol>
-</blockquote>
-<a id="more"></a>
-<h1>（一）概念</h1>
-<ol>
-<li>
-<p><strong>分子生物标志物</strong>是生物标志物的一种类型， 是指可以反映机体生理、病理状态的核酸、蛋白质（多肽）、代谢产物等生物分子。</p>
-</li>
-<li>
-<p><strong>基因组</strong>是一个细胞或一种生物体的整套遗传物质，包括基因和非编码DNA。更准确地讲，一个生物体的基因组是指一套染色体中的完整的DNA序列。</p>
-</li>
-<li>
-<p><strong>动态突变</strong>是指 DNA分子中某些短串联重复序列，尤其是三核苷酸重复，其重复次数可随着世代交替的传递而呈现逐代递增的累加突变效应，而引起某些单基因遗传病。</p>
-</li>
-<li>
-<p><strong>单核苷酸多态性</strong>是人类可遗传的变异中最简单、 最常见的一种， 主要是指在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性，简写为SNPS.</p>
-</li>
-<li>
-<p><strong>循环核酸</strong>是指血浆中存在的游离于细胞外的DNA和RNA，常用于分子生物标志物的是循环肿瘤细胞DNA、胎儿DNA和血浆RNA。</p>
-</li>
-</ol>
-<hr>
-<h1>（二）核酸分子标志物的分类</h1>
-<h2 id="1、DNA分子标志物">1、DNA分子标志物</h2>
-<p>（1）基于基因突变的分子标志物：包括点突变（错义突变、无义突变和RNA加工突变）、插入/缺失突变（包括移码突变）和动态突变等。点突变也称为碱基置换，是指单个碱基的改变，在引起人类遗传性疾病的点突变中包括错义突变、无义突变、RNA加工突变以及发生在调控区的突变等。插入1缺失突变分为小片段和大片段插入1缺失，小片段突变指的是在1~60个碱基范围内的改变，而大片段的插入/缺失甚至可以在染色体水平上检测到。动态突变是指三核苷酸的重复次数可随着世代交替的传递而呈现逐代递增的累加突变效应的突变形式。</p>
-<p>（2）基于基因多态性的分子标志物：包括限制性片段长度多态性、小卫星和卫星多态性、单核苷酸多态性和拷贝数多态性。限制性片段长度多态性是第一代DNA分子标记：小卫星和微卫星多态性是属于第二代的DNA分子标记；单核苷酸多态性主要是指在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性，它是人类可遗传的变异中最简单、最常见的一种。拷贝数变异指的是基因组中较大的DNA片段发生了拷贝数的变化，可以涉及一个基因，也可以是连续的几个基因，相当于染色体的某个区域发生了复制或缺失的改变。</p>
-<p>（3）基于循环核酸的分子标志物：包括循环肿瘤细胞DNA、母体血清中的胎儿DNA等。循环肿瘤细胞DNA可用于检测原癌基因突变、微卫星改变、原癌基因扩增、表观遗传改变、线粒体突变和病毒核酸等。胎儿DNA可用于性连锁遗传性疾病、RhD水平、先天性肾上腺皮质增生症、软骨发育不全、β地中海贫血等。</p>
-<h2 id="2、RNA分子标志物">2、RNA分子标志物</h2>
-<p>（1）mRNA分子标志物：可用于单基因遗传病和药物治疗以及药物治疗效果检测和食品安全领域检测。mRNA可以进入血液循环，血浆RNA检测可用于肿瘤诊断和产前诊断。检测技术包括Norther印迹杂交、荧光定量PCR、基因芯片和RNA测序等。</p>
-<p>（2） microRNA （miRNA）分子标志物：不仅存在组织细胞中，还可以通过微小囊泡分泌到细胞外，进入血液中。循环miRNA已成为肿瘤等疾病的特异性分子标志物。检测miRNA最常用的技术包括荧光定量PCR。</p>
-<p>（3） lncRNA分子标志物：是指长度大于200bp的非编码RNA，在生物标志物研究之中，IncRNA正在成为焦点，尤其是作为肿瘤分子标志物。</p>
-<hr>
-<h1>（三）核酸分子标志物特征和评估</h1>
-<h2 id="1、分子生物标志物的特征">1、分子生物标志物的特征</h2>
-<p>（1）该标志物在临床上是否有可行的检测方法。该标志物能够被临床所检测，检测方法准确、可重复；检测前的问题已被评估并可控制；检测方法通量高、速度快、费用合理。</p>
-<p>（2）该分子生物标志物是否增加新的信息。该生物标志物与疾病之间有较强的关联；在现有检测的基础上增加新的信息；参考值被一个以上研究验证；已在人群中进行过评价。</p>
-<p>（3）判断生物标志物是否有助于医生对患者的处理。对疾病的诊断优于现有检测方法；该生物标志物还具有危险分层、早期检出、诊断、治疗决策、监测疾病进展和对治疗反应的用途。</p>
-<h2 id="2、分子生物标志物的评估阶段">2、分子生物标志物的评估阶段</h2>
-<p>（1）第一阶段为临床前的探索性研究。通过基于经验的基因筛选、基因表达谱或蛋白质组发现用于区分癌症和正常样本的分子生物标志物。</p>
-<p>（2）第二阶段包括两个重要部分。首先，在第一-阶段按照要求完成的基础上，建立可以在临床应用的检测方法。其次，从临床应用角度讲，这些检测方法首先应该具有良好的重复性，测定仪器便携；检测的灵敏度和特异性等临床效能应该达到特定临床应用的最低阈值要求。</p>
-<p>（3）第三阶段是针对临床上还未能进行检测的疾病进行试验，对生物标志物的灵敏度和特异性进行评价。</p>
-<p>（4）第四阶段是要在前瞻性队列研究中评估分子生物标志物的灵敏度和特异性。</p>
-<p>（5）第五阶段主要是在筛选的人群中对新的诊断方法进行效益/风险评估，该阶段研究也需要大规模、长时间的研究，需要相当高额的经费支持。</p>
-]]></content>
-      <categories>
-        <category>医学</category>
-        <category>临床分子生物学检验技术</category>
-      </categories>
-      <tags>
-        <tag>医学</tag>
-        <tag>笔记</tag>
-        <tag>临床分子生物学检验技术</tag>
-        <tag>分子生物标志物</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>临床分子生物学检验技术笔记 第一章 绪论</title>
     <url>/posts/8281d852.html</url>
     <content><![CDATA[<p><strong>学习目标</strong></p>
@@ -2126,6 +2062,70 @@
         <tag>医学</tag>
         <tag>笔记</tag>
         <tag>临床分子生物学检验技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>临床分子生物学检验技术笔记 第二章 临床分子生物学检验与分子生物标志物</title>
+    <url>/posts/b73eb6d7.html</url>
+    <content><![CDATA[<p><strong>学习目标</strong></p>
+<blockquote>
+<ol>
+<li><strong>掌握</strong> 分子生物标志物的概念及分类，核酸分子生物标志物的分类，基因突变的概念及类型，基因多态性的概念及类型，DNA甲基化的概念，转录产物标志物的类型和原理，循环核酸的应用。</li>
+<li><strong>熟悉</strong> 生物标志物的概念及分类，病毒、原核生物、真核生物及人类基因组的结构及特征，线粒体DNA生物标志物的特点，高通量技术与分子生物标志物的发现。</li>
+<li><strong>了解</strong> 分子生物标志物的特征，生物标志物发现的基本统计学方法和生物标志物的评估阶段。</li>
+</ol>
+</blockquote>
+<a id="more"></a>
+<h1>（一）概念</h1>
+<ol>
+<li>
+<p><strong>分子生物标志物</strong>是生物标志物的一种类型， 是指可以反映机体生理、病理状态的核酸、蛋白质（多肽）、代谢产物等生物分子。</p>
+</li>
+<li>
+<p><strong>基因组</strong>是一个细胞或一种生物体的整套遗传物质，包括基因和非编码DNA。更准确地讲，一个生物体的基因组是指一套染色体中的完整的DNA序列。</p>
+</li>
+<li>
+<p><strong>动态突变</strong>是指 DNA分子中某些短串联重复序列，尤其是三核苷酸重复，其重复次数可随着世代交替的传递而呈现逐代递增的累加突变效应，而引起某些单基因遗传病。</p>
+</li>
+<li>
+<p><strong>单核苷酸多态性</strong>是人类可遗传的变异中最简单、 最常见的一种， 主要是指在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性，简写为SNPS.</p>
+</li>
+<li>
+<p><strong>循环核酸</strong>是指血浆中存在的游离于细胞外的DNA和RNA，常用于分子生物标志物的是循环肿瘤细胞DNA、胎儿DNA和血浆RNA。</p>
+</li>
+</ol>
+<hr>
+<h1>（二）核酸分子标志物的分类</h1>
+<h2 id="1、DNA分子标志物">1、DNA分子标志物</h2>
+<p>（1）基于基因突变的分子标志物：包括点突变（错义突变、无义突变和RNA加工突变）、插入/缺失突变（包括移码突变）和动态突变等。点突变也称为碱基置换，是指单个碱基的改变，在引起人类遗传性疾病的点突变中包括错义突变、无义突变、RNA加工突变以及发生在调控区的突变等。插入1缺失突变分为小片段和大片段插入1缺失，小片段突变指的是在1~60个碱基范围内的改变，而大片段的插入/缺失甚至可以在染色体水平上检测到。动态突变是指三核苷酸的重复次数可随着世代交替的传递而呈现逐代递增的累加突变效应的突变形式。</p>
+<p>（2）基于基因多态性的分子标志物：包括限制性片段长度多态性、小卫星和卫星多态性、单核苷酸多态性和拷贝数多态性。限制性片段长度多态性是第一代DNA分子标记：小卫星和微卫星多态性是属于第二代的DNA分子标记；单核苷酸多态性主要是指在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性，它是人类可遗传的变异中最简单、最常见的一种。拷贝数变异指的是基因组中较大的DNA片段发生了拷贝数的变化，可以涉及一个基因，也可以是连续的几个基因，相当于染色体的某个区域发生了复制或缺失的改变。</p>
+<p>（3）基于循环核酸的分子标志物：包括循环肿瘤细胞DNA、母体血清中的胎儿DNA等。循环肿瘤细胞DNA可用于检测原癌基因突变、微卫星改变、原癌基因扩增、表观遗传改变、线粒体突变和病毒核酸等。胎儿DNA可用于性连锁遗传性疾病、RhD水平、先天性肾上腺皮质增生症、软骨发育不全、β地中海贫血等。</p>
+<h2 id="2、RNA分子标志物">2、RNA分子标志物</h2>
+<p>（1）mRNA分子标志物：可用于单基因遗传病和药物治疗以及药物治疗效果检测和食品安全领域检测。mRNA可以进入血液循环，血浆RNA检测可用于肿瘤诊断和产前诊断。检测技术包括Norther印迹杂交、荧光定量PCR、基因芯片和RNA测序等。</p>
+<p>（2） microRNA （miRNA）分子标志物：不仅存在组织细胞中，还可以通过微小囊泡分泌到细胞外，进入血液中。循环miRNA已成为肿瘤等疾病的特异性分子标志物。检测miRNA最常用的技术包括荧光定量PCR。</p>
+<p>（3） lncRNA分子标志物：是指长度大于200bp的非编码RNA，在生物标志物研究之中，IncRNA正在成为焦点，尤其是作为肿瘤分子标志物。</p>
+<hr>
+<h1>（三）核酸分子标志物特征和评估</h1>
+<h2 id="1、分子生物标志物的特征">1、分子生物标志物的特征</h2>
+<p>（1）该标志物在临床上是否有可行的检测方法。该标志物能够被临床所检测，检测方法准确、可重复；检测前的问题已被评估并可控制；检测方法通量高、速度快、费用合理。</p>
+<p>（2）该分子生物标志物是否增加新的信息。该生物标志物与疾病之间有较强的关联；在现有检测的基础上增加新的信息；参考值被一个以上研究验证；已在人群中进行过评价。</p>
+<p>（3）判断生物标志物是否有助于医生对患者的处理。对疾病的诊断优于现有检测方法；该生物标志物还具有危险分层、早期检出、诊断、治疗决策、监测疾病进展和对治疗反应的用途。</p>
+<h2 id="2、分子生物标志物的评估阶段">2、分子生物标志物的评估阶段</h2>
+<p>（1）第一阶段为临床前的探索性研究。通过基于经验的基因筛选、基因表达谱或蛋白质组发现用于区分癌症和正常样本的分子生物标志物。</p>
+<p>（2）第二阶段包括两个重要部分。首先，在第一-阶段按照要求完成的基础上，建立可以在临床应用的检测方法。其次，从临床应用角度讲，这些检测方法首先应该具有良好的重复性，测定仪器便携；检测的灵敏度和特异性等临床效能应该达到特定临床应用的最低阈值要求。</p>
+<p>（3）第三阶段是针对临床上还未能进行检测的疾病进行试验，对生物标志物的灵敏度和特异性进行评价。</p>
+<p>（4）第四阶段是要在前瞻性队列研究中评估分子生物标志物的灵敏度和特异性。</p>
+<p>（5）第五阶段主要是在筛选的人群中对新的诊断方法进行效益/风险评估，该阶段研究也需要大规模、长时间的研究，需要相当高额的经费支持。</p>
+]]></content>
+      <categories>
+        <category>医学</category>
+        <category>临床分子生物学检验技术</category>
+      </categories>
+      <tags>
+        <tag>医学</tag>
+        <tag>笔记</tag>
+        <tag>临床分子生物学检验技术</tag>
+        <tag>分子生物标志物</tag>
       </tags>
   </entry>
   <entry>
@@ -2251,6 +2251,81 @@ $$</p>
       </tags>
   </entry>
   <entry>
+    <title>折腾笔记</title>
+    <url>/posts/a190d57c.html</url>
+    <content><![CDATA[<h2 id="起因">起因</h2>
+<p>前段时间（好几个月了叭）</p>
+<p>因为自己手残，把博客玩出了猫病，大概问题就是不能发布文章，也不能修改页面</p>
+<p>这直接导致了博主托（tou）更（lan）和友链处理</p>
+<p>在这里，给大家说声对不起~<a id="more"></a></p>
+<p>考虑了各种插件的干扰之后，逐个排除，最终锁定在了某个插件上</p>
+<p>然后就删了~</p>
+<p>然后完犊子，后台进不去了。</p>
+<p>折腾了一天之后，真的想放弃了</p>
+<p>动态博客有诸多方便之处的同时，也带来了很多问题</p>
+<p>比如不耐打，比如各种兼容</p>
+<p>于是。。。</p>
+<p>我就想到了去试试纯静态~</p>
+<hr>
+<h2 id="经过">经过</h2>
+<p>我选择的是Hexo，一个快速、简洁且高效的博客框架</p>
+<p>它使用Markdown渲染文章这一点就抓到了我的眼球，于是我准备拿它开刀</p>
+<p><a href="http://xn--cunzher-x49kh3oopldjdl72bca1359dgje.cn">域名我准备用我的cunzher.cn</a>，熟悉的朋友可能还记得它以前的样子——一个引导页。当初的主要作用是加上CDN清洗流量，不过D阔大佬最近几个月都没来了，貌似是放过菜鸡了~我就把这个站拿来改造了</p>
+<p>就在昨天，另一个域名（<a href="http://kalibug.cn">kalibug.cn</a>）过期了，我也懒得去续费，持有这个域名对我而言其实并没有任何作用</p>
+<p>主机选择了Github Pages，原因是腾讯云学生服务器套餐到期未续，被永久取消该套餐使用权。考虑到我博客并没有大流量，而且初心就是记录生活，记录心情，作为一个纯静态博客，Github Pages完全可以胜任了。</p>
+<p>之前听一位朋友讲了纯静态一点经验，而Hexo又有非常详细的说明文档，所以部署起来并不难</p>
+<p><code>hexo g</code></p>
+<p><code>hexo d</code></p>
+<p>一气呵成</p>
+<hr>
+<h2 id="结果">结果</h2>
+<ul>
+<li>
+<p>程序：Hexo</p>
+</li>
+<li>
+<p>主机：Github Pages</p>
+</li>
+<li>
+<p>主题：Nexmoe</p>
+</li>
+<li>
+<p>评论：Gitalk</p>
+</li>
+<li>
+<p>CDN/对象存储：腾讯云(成都)</p>
+</li>
+<li>
+<p>域名：万网（<a href="https://www.cunzher.cn">https://www.cunzher.cn</a>）</p>
+</li>
+<li>
+<p>SSL：Let’s Encrypt Authority X3</p>
+</li>
+</ul>
+<hr>
+<p>解决了一些问题之后，Cunzher’s Blog就在Github Pages上跑起来了</p>
+<p><img src="http://ypcdnsave.cunzher.cn/img/3VBNX8.png!colorimg" alt="页面截图"></p>
+<p>友链也很好的保留了下来（当然也删掉了一些单向链~）</p>
+<p><img src="http://ypcdnsave.cunzher.cn/img/QQ%E6%88%AA%E5%9B%BE20200220151707.png!colorimg" alt="页面预览"></p>
+<p>Nexmoe这个主题萌萌哒二次元风格简直让我欲罢不能~</p>
+<p>缺点还是有的，以前的文章应该是回不来了。。。。（第N次了叭）</p>
+<hr>
+<h2 id="然后">然后</h2>
+<p>我发现了Z-Blog出问题的原因，也找到了解决办法。</p>
+<p>但是每次发文章还是挺复杂，因为这是一个必须插件与系统之间的冲突，每次发文时需要临时禁用这个插件</p>
+<p>所以。。。</p>
+<p>我现在纠结了。。。。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>折腾</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>呼吸困难、嗜睡、昏迷，抢救无效死亡病例</title>
     <url>/posts/4e85fc34.html</url>
     <content><![CDATA[<p>病理学实验课，老师给出的一例非常经典的死亡病例</p>
@@ -2327,81 +2402,6 @@ $$</p>
         <tag>死亡</tag>
         <tag>肺心病</tag>
         <tag>肺性脑病</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>折腾笔记</title>
-    <url>/posts/a190d57c.html</url>
-    <content><![CDATA[<h2 id="起因">起因</h2>
-<p>前段时间（好几个月了叭）</p>
-<p>因为自己手残，把博客玩出了猫病，大概问题就是不能发布文章，也不能修改页面</p>
-<p>这直接导致了博主托（tou）更（lan）和友链处理</p>
-<p>在这里，给大家说声对不起~<a id="more"></a></p>
-<p>考虑了各种插件的干扰之后，逐个排除，最终锁定在了某个插件上</p>
-<p>然后就删了~</p>
-<p>然后完犊子，后台进不去了。</p>
-<p>折腾了一天之后，真的想放弃了</p>
-<p>动态博客有诸多方便之处的同时，也带来了很多问题</p>
-<p>比如不耐打，比如各种兼容</p>
-<p>于是。。。</p>
-<p>我就想到了去试试纯静态~</p>
-<hr>
-<h2 id="经过">经过</h2>
-<p>我选择的是Hexo，一个快速、简洁且高效的博客框架</p>
-<p>它使用Markdown渲染文章这一点就抓到了我的眼球，于是我准备拿它开刀</p>
-<p><a href="http://xn--cunzher-x49kh3oopldjdl72bca1359dgje.cn">域名我准备用我的cunzher.cn</a>，熟悉的朋友可能还记得它以前的样子——一个引导页。当初的主要作用是加上CDN清洗流量，不过D阔大佬最近几个月都没来了，貌似是放过菜鸡了~我就把这个站拿来改造了</p>
-<p>就在昨天，另一个域名（<a href="http://kalibug.cn">kalibug.cn</a>）过期了，我也懒得去续费，持有这个域名对我而言其实并没有任何作用</p>
-<p>主机选择了Github Pages，原因是腾讯云学生服务器套餐到期未续，被永久取消该套餐使用权。考虑到我博客并没有大流量，而且初心就是记录生活，记录心情，作为一个纯静态博客，Github Pages完全可以胜任了。</p>
-<p>之前听一位朋友讲了纯静态一点经验，而Hexo又有非常详细的说明文档，所以部署起来并不难</p>
-<p><code>hexo g</code></p>
-<p><code>hexo d</code></p>
-<p>一气呵成</p>
-<hr>
-<h2 id="结果">结果</h2>
-<ul>
-<li>
-<p>程序：Hexo</p>
-</li>
-<li>
-<p>主机：Github Pages</p>
-</li>
-<li>
-<p>主题：Nexmoe</p>
-</li>
-<li>
-<p>评论：Gitalk</p>
-</li>
-<li>
-<p>CDN/对象存储：腾讯云(成都)</p>
-</li>
-<li>
-<p>域名：万网（<a href="https://www.cunzher.cn">https://www.cunzher.cn</a>）</p>
-</li>
-<li>
-<p>SSL：Let’s Encrypt Authority X3</p>
-</li>
-</ul>
-<hr>
-<p>解决了一些问题之后，Cunzher’s Blog就在Github Pages上跑起来了</p>
-<p><img src="http://ypcdnsave.cunzher.cn/img/3VBNX8.png!colorimg" alt="页面截图"></p>
-<p>友链也很好的保留了下来（当然也删掉了一些单向链~）</p>
-<p><img src="http://ypcdnsave.cunzher.cn/img/QQ%E6%88%AA%E5%9B%BE20200220151707.png!colorimg" alt="页面预览"></p>
-<p>Nexmoe这个主题萌萌哒二次元风格简直让我欲罢不能~</p>
-<p>缺点还是有的，以前的文章应该是回不来了。。。。（第N次了叭）</p>
-<hr>
-<h2 id="然后">然后</h2>
-<p>我发现了Z-Blog出问题的原因，也找到了解决办法。</p>
-<p>但是每次发文章还是挺复杂，因为这是一个必须插件与系统之间的冲突，每次发文时需要临时禁用这个插件</p>
-<p>所以。。。</p>
-<p>我现在纠结了。。。。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>折腾</tag>
-        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -3010,6 +3010,83 @@ $$</p>
       </tags>
   </entry>
   <entry>
+    <title>临床检验仪器学笔记 03 第三章 电化学分析仪器与技术</title>
+    <url>/posts/66f291be.html</url>
+    <content><![CDATA[<p><strong>学习目标</strong></p>
+<blockquote>
+<p><strong>掌握</strong> 电化学分析技术、ISE电极、电解质分析仪和血气分析仪分析原理。</p>
+<p><strong>熟悉</strong> ISE分类、电解质分析仪和血气分析仪基本结构。</p>
+<p><strong>了解</strong> 电位滴定法原理、电解质分析仪的分类。</p>
+</blockquote>
+<a id="more"></a>
+<h1>一、概念</h1>
+<ol>
+<li>
+<p><strong>化学电池</strong> 化学能与电能相互转换的电化学反应装置；将化学能转换成电能的装置称原电池。将外部电能转换成化学能的装置称电解池。</p>
+</li>
+<li>
+<p><strong>离子选择性电极</strong> 离子选择性电极是一类具有特制的敏感膜，以电位法测量溶液中某些特定离子活度的指示电极。</p>
+</li>
+<li>
+<p><strong>酶电极</strong> 指示电极的敏感膜上覆盖一层生物活性的酶物质。</p>
+</li>
+<li>
+<p><strong>直接电位分析法</strong> 在相同条件下，分别将标准液和试样作为工作电池溶液，测定其电位值，与标准溶液比较推算出试样溶液中特定离子（浓）活度。</p>
+</li>
+<li>
+<p><strong>电位滴定法</strong> 是利用滴定过程中电动势突跃变化来确定终点的滴定分析法。</p>
+</li>
+<li>
+<p><strong>电解质分析仪</strong> 是对离子浓度测定的检验分析仪器，可以对不同体液中的钾（K）、钠（Na）、氯（Cl）、钙（Ca）锂（Li）等离子浓度测定。</p>
+</li>
+<li>
+<p><strong>血气分析仪</strong> 血气分析仪是利用电极对人体血液中的酸碱度（pH）、二氧化碳分压（PCO<sub>2</sub>）和氧分压（PO<sub>2</sub>）进行测定的仪器。</p>
+</li>
+</ol>
+<h1>二、电化学基本技术</h1>
+<ol>
+<li>
+<p><strong>电位分析技术</strong> 是两个电极与待分析的试样溶液组成化学电池，然后根据所组成电池电位与溶液离子之间的内在联系来进行测定的方法。</p>
+</li>
+<li>
+<p><strong>ISE</strong> 具有特制的敏感膜，对溶液特定离子产生响应电位，测定溶液活度。</p>
+</li>
+<li>
+<p><strong>晶体膜电极响应机制</strong> 晶格空穴引起离子的扩散产生电位，其特异性取决于空穴只能容纳一种离子移动，其他离子不能出入。</p>
+</li>
+<li>
+<p><strong>pH电极响应机制</strong> 玻璃敏感膜的Na与H交换，形成水化硅胶层，存在4个界面电位，对选定的电极来说，其中3个界面电位为常数，外部溶液与水化硅胶层的界面电位遵循 Nernst方程。</p>
+</li>
+<li>
+<p><strong>酶电极电位产生原理</strong> 酶与待测物质先发生催化反应，底物或产物的减少或增加导致基础电极电位变化。</p>
+</li>
+<li>
+<p><strong>滴定终点确定</strong> 电位滴定法是靠电极电位的突跃来指示滴定终点，电位滴定曲线有3种类型:E-V滴定曲线、一级微商曲线和二级微商曲线。</p>
+</li>
+<li>
+<p><strong>PO<sub>2</sub>电极工作原理</strong> 基于电解氧过程中产生电极电流而实现。</p>
+</li>
+</ol>
+<h1>三、电解质分析仪基本结构</h1>
+<p>临床上常用的电解质分析仪主要由电极系统、液路系统和电路系统组成。</p>
+<p>电极系统将Na<sup>+</sup>、K<sup>+</sup>、Cl<sup>-</sup> 等离子选择性电极对接在一起自然形成毛细管测量室；</p>
+<p>液路系统常由标本盘、溶液瓶、吸样针、三通阀、电极系统、蠕动泵等组成；</p>
+<p>电路系统将电极产生的微弱信号放大，转换最后显示、打印。</p>
+<h1>四、血气分析仪基本结构</h1>
+<p>一般的血气分析仪使用四支电极，分别是pH、PCO<sub>2</sub>、PO<sub>2</sub>电极和pH参比电极。PO<sub>2</sub>电极由铂丝（阴极）、Ag/AgCl（阳极）、电极液（含KCl的磷酸盐缓冲液）和氧选择性通透膜等组成</p>
+<h1>五、血气分析仪供气方式</h1>
+<p>气路分为压缩气瓶供气方式（外配气方式和气体混合器（内配气方式）两种类型供气方式。</p>
+]]></content>
+      <categories>
+        <category>医学</category>
+      </categories>
+      <tags>
+        <tag>医学</tag>
+        <tag>笔记</tag>
+        <tag>临床检验仪器学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>临床检验仪器学笔记 02 第二章 光谱分析仪器与技术</title>
     <url>/posts/de62b894.html</url>
     <content><![CDATA[<p><strong>学习目标</strong></p>
@@ -3107,83 +3184,6 @@ $$</p>
 <p>公式进一步表明检测器的位置与被测光信号的性质及强度之间的关系。米-德拜所<br>
 做的修正更适合于粒径等于或大于入射光波长的情况。在免疫化学反应过程中，可溶性<br>
 抗体（ Ab）与可溶性抗原（ Ag）反应，形成免疫复合物（ IC）粒子，混合物系统中的粒子由小变大，并不恪守某一固定公式。故而米-德拜对雷菜散射理论的修正公式更适合于现代实验室测定项目的原理。目前这个液相化学公式主要被应用于免疫检测系统中，常称为免疫浊度法。</p>
-]]></content>
-      <categories>
-        <category>医学</category>
-      </categories>
-      <tags>
-        <tag>医学</tag>
-        <tag>笔记</tag>
-        <tag>临床检验仪器学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>临床检验仪器学笔记 03 第三章 电化学分析仪器与技术</title>
-    <url>/posts/66f291be.html</url>
-    <content><![CDATA[<p><strong>学习目标</strong></p>
-<blockquote>
-<p><strong>掌握</strong> 电化学分析技术、ISE电极、电解质分析仪和血气分析仪分析原理。</p>
-<p><strong>熟悉</strong> ISE分类、电解质分析仪和血气分析仪基本结构。</p>
-<p><strong>了解</strong> 电位滴定法原理、电解质分析仪的分类。</p>
-</blockquote>
-<a id="more"></a>
-<h1>一、概念</h1>
-<ol>
-<li>
-<p><strong>化学电池</strong> 化学能与电能相互转换的电化学反应装置；将化学能转换成电能的装置称原电池。将外部电能转换成化学能的装置称电解池。</p>
-</li>
-<li>
-<p><strong>离子选择性电极</strong> 离子选择性电极是一类具有特制的敏感膜，以电位法测量溶液中某些特定离子活度的指示电极。</p>
-</li>
-<li>
-<p><strong>酶电极</strong> 指示电极的敏感膜上覆盖一层生物活性的酶物质。</p>
-</li>
-<li>
-<p><strong>直接电位分析法</strong> 在相同条件下，分别将标准液和试样作为工作电池溶液，测定其电位值，与标准溶液比较推算出试样溶液中特定离子（浓）活度。</p>
-</li>
-<li>
-<p><strong>电位滴定法</strong> 是利用滴定过程中电动势突跃变化来确定终点的滴定分析法。</p>
-</li>
-<li>
-<p><strong>电解质分析仪</strong> 是对离子浓度测定的检验分析仪器，可以对不同体液中的钾（K）、钠（Na）、氯（Cl）、钙（Ca）锂（Li）等离子浓度测定。</p>
-</li>
-<li>
-<p><strong>血气分析仪</strong> 血气分析仪是利用电极对人体血液中的酸碱度（pH）、二氧化碳分压（PCO<sub>2</sub>）和氧分压（PO<sub>2</sub>）进行测定的仪器。</p>
-</li>
-</ol>
-<h1>二、电化学基本技术</h1>
-<ol>
-<li>
-<p><strong>电位分析技术</strong> 是两个电极与待分析的试样溶液组成化学电池，然后根据所组成电池电位与溶液离子之间的内在联系来进行测定的方法。</p>
-</li>
-<li>
-<p><strong>ISE</strong> 具有特制的敏感膜，对溶液特定离子产生响应电位，测定溶液活度。</p>
-</li>
-<li>
-<p><strong>晶体膜电极响应机制</strong> 晶格空穴引起离子的扩散产生电位，其特异性取决于空穴只能容纳一种离子移动，其他离子不能出入。</p>
-</li>
-<li>
-<p><strong>pH电极响应机制</strong> 玻璃敏感膜的Na与H交换，形成水化硅胶层，存在4个界面电位，对选定的电极来说，其中3个界面电位为常数，外部溶液与水化硅胶层的界面电位遵循 Nernst方程。</p>
-</li>
-<li>
-<p><strong>酶电极电位产生原理</strong> 酶与待测物质先发生催化反应，底物或产物的减少或增加导致基础电极电位变化。</p>
-</li>
-<li>
-<p><strong>滴定终点确定</strong> 电位滴定法是靠电极电位的突跃来指示滴定终点，电位滴定曲线有3种类型:E-V滴定曲线、一级微商曲线和二级微商曲线。</p>
-</li>
-<li>
-<p><strong>PO<sub>2</sub>电极工作原理</strong> 基于电解氧过程中产生电极电流而实现。</p>
-</li>
-</ol>
-<h1>三、电解质分析仪基本结构</h1>
-<p>临床上常用的电解质分析仪主要由电极系统、液路系统和电路系统组成。</p>
-<p>电极系统将Na<sup>+</sup>、K<sup>+</sup>、Cl<sup>-</sup> 等离子选择性电极对接在一起自然形成毛细管测量室；</p>
-<p>液路系统常由标本盘、溶液瓶、吸样针、三通阀、电极系统、蠕动泵等组成；</p>
-<p>电路系统将电极产生的微弱信号放大，转换最后显示、打印。</p>
-<h1>四、血气分析仪基本结构</h1>
-<p>一般的血气分析仪使用四支电极，分别是pH、PCO<sub>2</sub>、PO<sub>2</sub>电极和pH参比电极。PO<sub>2</sub>电极由铂丝（阴极）、Ag/AgCl（阳极）、电极液（含KCl的磷酸盐缓冲液）和氧选择性通透膜等组成</p>
-<h1>五、血气分析仪供气方式</h1>
-<p>气路分为压缩气瓶供气方式（外配气方式和气体混合器（内配气方式）两种类型供气方式。</p>
 ]]></content>
       <categories>
         <category>医学</category>
@@ -3508,6 +3508,36 @@ $$</p>
       </tags>
   </entry>
   <entry>
+    <title>临床检验仪器学笔记 09 第九章 临床尿液检验仪器与技术</title>
+    <url>/posts/a41cc46f.html</url>
+    <content><![CDATA[<p><strong>学习目标</strong></p>
+<blockquote>
+<p><strong>掌握</strong> 尿液干化学分析仪的检测原理，流式细胞技术的尿沉渣分析仪的检测原理，静止式尿沉渣分析仪的检测原理。<br>
+<strong>熟悉</strong> 尿液干化学分析仪的基本结构，流式细胞技术的尿沉渣分析仪的基本结构，静止式尿沉渣分析仪的基本结构。<br>
+<strong>了解</strong> 尿液干化学分析仪的分类，尿液有形成分自动分析仪的分类，尿有形成分分析工作站检测原理。</p>
+</blockquote>
+<a id="more"></a>
+<ol>
+<li><strong>尿液干化学分析仪的检测原理</strong> 试剂带浸入尿液后，除了空白块外，各检测试剂块都因和尿液相应成分发生化学反应而产生了颜色的变化试剂块的颜色深浅与光的吸收和反射程度有关，颜色越深，相应某种成分浓度越高，吸收光量值越大，反射光量值越小，反射率也越小；反之，反射率越大。因为颜色的深浅与光的反射率成比例关系，而颜色的深浅又与尿液中各种成分的浓度成比例关系，所以只要测得光的反射率即可以求得尿液中各种成分的浓度。</li>
+<li><strong>尿液干化学分析仪的基本结构</strong> 一般由机械系统、光学检测系统、电路系统3部分组成。</li>
+<li><strong>流式细胞技术的尿沉渣分析仪的检测原理</strong> 应用流式细胞术和电阻抗的原理进行检测。尿液标本被稀释并染色，由于液压作用进入鞘液流动池，它被一种无粒子颗粒的鞘液包围，使每个细胞、管型等有形成分以单个纵列的形式通过流动池的中心（竖直）轴线，在这里各种有形成分被氩激光光束照射，同时接受电阻抗检查，得到荧光强度、前向散射光强度和电阻抗信号三类数据。仪器将这种荧光、散射光等光信号转变成电信号，并对各种信号进行分析，最后得到每个尿液标本产生出的直方图和散射图。</li>
+<li><strong>流式细胞技术的尿沉渣分析仪的基本结构</strong> 包括光学检测系统、液压系统、电阻抗检测系统和电子分析系统。</li>
+<li><strong>流动式尿沉渣分析仪的检测原理</strong> 尿液标本采用层流平板式流式细胞术，标本在上下两层鞘液的包裹下进入系统中。仪器的流体力学系统由特别制作的薄层板构成，蠕动泵带动鞘液进入薄层板构成的流动池，双层鞘液流包裹在尿液标本外周，而尿液会以单层细胞颗粒的厚度进入薄层板，被高速拍摄照片后进入废液容器。</li>
+<li><strong>流动式尿沉渣分析仪的基本结构</strong> 一般由4个模块构成:流动式显微成像模块、计算机分析处理模块、自动进样模块和干化学系统模块。</li>
+<li><strong>静止式尿沉渣分析仪的检测原理</strong> 与人工显微镜相似，将尿液标本注入专用计数板上，经一定时间静止沉淀后，由数码照相机在计数板不同的部位拍摄一定数量的数字影像图片，经计算机进行处理。能观测的有形成分包括红细胞、白细胞、上皮细胞管型、酵母菌细菌和结晶等。</li>
+<li><strong>静止式尿沉渣分析仪的基本结构</strong> 主要由显微镜系统（具有内置数码照相机）加样器和冲洗系统、图像显示处理系统等构成。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>医学</category>
+      </categories>
+      <tags>
+        <tag>医学</tag>
+        <tag>笔记</tag>
+        <tag>临床检验仪器学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>临床检验仪器学笔记 08 第八章 临床血液学检验仪器与技术</title>
     <url>/posts/a14ce70a.html</url>
     <content><![CDATA[<p><strong>学习目标</strong></p>
@@ -3602,36 +3632,6 @@ $$</p>
 <p>④可检测项目多，还有急诊样本优先检测的功能；</p>
 <p>⑤实验结果可长期保存。</p>
 </li>
-</ol>
-]]></content>
-      <categories>
-        <category>医学</category>
-      </categories>
-      <tags>
-        <tag>医学</tag>
-        <tag>笔记</tag>
-        <tag>临床检验仪器学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>临床检验仪器学笔记 09 第九章 临床尿液检验仪器与技术</title>
-    <url>/posts/a41cc46f.html</url>
-    <content><![CDATA[<p><strong>学习目标</strong></p>
-<blockquote>
-<p><strong>掌握</strong> 尿液干化学分析仪的检测原理，流式细胞技术的尿沉渣分析仪的检测原理，静止式尿沉渣分析仪的检测原理。<br>
-<strong>熟悉</strong> 尿液干化学分析仪的基本结构，流式细胞技术的尿沉渣分析仪的基本结构，静止式尿沉渣分析仪的基本结构。<br>
-<strong>了解</strong> 尿液干化学分析仪的分类，尿液有形成分自动分析仪的分类，尿有形成分分析工作站检测原理。</p>
-</blockquote>
-<a id="more"></a>
-<ol>
-<li><strong>尿液干化学分析仪的检测原理</strong> 试剂带浸入尿液后，除了空白块外，各检测试剂块都因和尿液相应成分发生化学反应而产生了颜色的变化试剂块的颜色深浅与光的吸收和反射程度有关，颜色越深，相应某种成分浓度越高，吸收光量值越大，反射光量值越小，反射率也越小；反之，反射率越大。因为颜色的深浅与光的反射率成比例关系，而颜色的深浅又与尿液中各种成分的浓度成比例关系，所以只要测得光的反射率即可以求得尿液中各种成分的浓度。</li>
-<li><strong>尿液干化学分析仪的基本结构</strong> 一般由机械系统、光学检测系统、电路系统3部分组成。</li>
-<li><strong>流式细胞技术的尿沉渣分析仪的检测原理</strong> 应用流式细胞术和电阻抗的原理进行检测。尿液标本被稀释并染色，由于液压作用进入鞘液流动池，它被一种无粒子颗粒的鞘液包围，使每个细胞、管型等有形成分以单个纵列的形式通过流动池的中心（竖直）轴线，在这里各种有形成分被氩激光光束照射，同时接受电阻抗检查，得到荧光强度、前向散射光强度和电阻抗信号三类数据。仪器将这种荧光、散射光等光信号转变成电信号，并对各种信号进行分析，最后得到每个尿液标本产生出的直方图和散射图。</li>
-<li><strong>流式细胞技术的尿沉渣分析仪的基本结构</strong> 包括光学检测系统、液压系统、电阻抗检测系统和电子分析系统。</li>
-<li><strong>流动式尿沉渣分析仪的检测原理</strong> 尿液标本采用层流平板式流式细胞术，标本在上下两层鞘液的包裹下进入系统中。仪器的流体力学系统由特别制作的薄层板构成，蠕动泵带动鞘液进入薄层板构成的流动池，双层鞘液流包裹在尿液标本外周，而尿液会以单层细胞颗粒的厚度进入薄层板，被高速拍摄照片后进入废液容器。</li>
-<li><strong>流动式尿沉渣分析仪的基本结构</strong> 一般由4个模块构成:流动式显微成像模块、计算机分析处理模块、自动进样模块和干化学系统模块。</li>
-<li><strong>静止式尿沉渣分析仪的检测原理</strong> 与人工显微镜相似，将尿液标本注入专用计数板上，经一定时间静止沉淀后，由数码照相机在计数板不同的部位拍摄一定数量的数字影像图片，经计算机进行处理。能观测的有形成分包括红细胞、白细胞、上皮细胞管型、酵母菌细菌和结晶等。</li>
-<li><strong>静止式尿沉渣分析仪的基本结构</strong> 主要由显微镜系统（具有内置数码照相机）加样器和冲洗系统、图像显示处理系统等构成。</li>
 </ol>
 ]]></content>
       <categories>
@@ -3768,10 +3768,53 @@ $$</p>
       </tags>
   </entry>
   <entry>
+    <title>你有没有想过，你的生命愿景是什么？</title>
+    <url>/posts/ff719259.html</url>
+    <content><![CDATA[<p>今天我们的素质体验课主题是&quot;生命愿景&quot;，老师让我们在纸上写下自己生命中最重要的五件事物，然后一个一个划去，最后只留下一个。<a id="more"></a></p>
+<p>我写的是</p>
+<p>🔲亲情</p>
+<p>🔳健康</p>
+<p>🔳理想</p>
+<p>🔳名誉</p>
+<p>🔳财富</p>
+<p>最后只留下了亲情。</p>
+<p>其实一开始我以为会留下自己的理想，或者是健康，但是每划掉一个选项，老师就给我们挺长的时间去思考，最后我还是选择了留下亲情。我不否认留下亲情可能是因为当天经历了亲人的离去，但我认为，在深思熟虑之下，我的选择是足够理性的，也确实是我的真实愿景。</p>
+<p>有的同学说，亲人总会离去，荣誉才是自己的，生前生后，永世流芳。</p>
+<p>有同学说，当今社会，物欲横流，金钱和权势才是立身之本。</p>
+<p>也有同学说，无论是陪伴亲人还是实现理想，都需要自己有一个健康的身体，健康才是王道。</p>
+<p>你看，每个人的生命愿景都不同，每个人的思想都有差别。那么，你的生命愿景是什么呢？</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>生命</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>暂停更新</title>
     <url>/posts/77a34872.html</url>
     <content><![CDATA[<p>因博主开学，非常医学生即日起暂停更新，待放假后恢复更新。</p>
 <a id="more"></a>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>恢复更新</title>
+    <url>/posts/c516f365.html</url>
+    <content><![CDATA[<p>&quot;非常医学生&quot;即日起恢复更新，不定期上传在校期间做好的电子笔记</p>
+<a id="more"></a>
+<p>由于近期疫情形势不太乐观，我们学校暂停考试，直接放假啦~</p>
+<p>因为太长时间没有更新，Hexo和Node.js都更新了，我的Node.js之前自动更新到最新版，导致Hexo和Node.js不兼容的问题，而Coding也把静态网站的部署搬到了腾讯云，排查问题捣鼓了将近一天（效率好低233）</p>
+<p>Hexo 15.0.0 版本支持了npm安装主题，我试了试，顺便就换了个主题~</p>
+<p>刚刚调试好，各位大佬如果发现问题请及时反馈，留言或者cunzher@163.com都是可以哒~</p>
+<p>那么，&quot;非常医学生&quot;即日起就恢复更新啦，不定期上传在校期间做好的电子笔记~</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -3798,24 +3841,6 @@ $$</p>
       <tags>
         <tag>随笔</tag>
         <tag>丁香园</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>恢复更新</title>
-    <url>/posts/c516f365.html</url>
-    <content><![CDATA[<p>&quot;非常医学生&quot;即日起恢复更新，不定期上传在校期间做好的电子笔记</p>
-<a id="more"></a>
-<p>由于近期疫情形势不太乐观，我们学校暂停考试，直接放假啦~</p>
-<p>因为太长时间没有更新，Hexo和Node.js都更新了，我的Node.js之前自动更新到最新版，导致Hexo和Node.js不兼容的问题，而Coding也把静态网站的部署搬到了腾讯云，排查问题捣鼓了将近一天（效率好低233）</p>
-<p>Hexo 15.0.0 版本支持了npm安装主题，我试了试，顺便就换了个主题~</p>
-<p>刚刚调试好，各位大佬如果发现问题请及时反馈，留言或者cunzher@163.com都是可以哒~</p>
-<p>那么，&quot;非常医学生&quot;即日起就恢复更新啦，不定期上传在校期间做好的电子笔记~</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -3897,31 +3922,6 @@ $$</p>
       </categories>
       <tags>
         <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你有没有想过，你的生命愿景是什么？</title>
-    <url>/posts/ff719259.html</url>
-    <content><![CDATA[<p>今天我们的素质体验课主题是&quot;生命愿景&quot;，老师让我们在纸上写下自己生命中最重要的五件事物，然后一个一个划去，最后只留下一个。<a id="more"></a></p>
-<p>我写的是</p>
-<p>🔲亲情</p>
-<p>🔳健康</p>
-<p>🔳理想</p>
-<p>🔳名誉</p>
-<p>🔳财富</p>
-<p>最后只留下了亲情。</p>
-<p>其实一开始我以为会留下自己的理想，或者是健康，但是每划掉一个选项，老师就给我们挺长的时间去思考，最后我还是选择了留下亲情。我不否认留下亲情可能是因为当天经历了亲人的离去，但我认为，在深思熟虑之下，我的选择是足够理性的，也确实是我的真实愿景。</p>
-<p>有的同学说，亲人总会离去，荣誉才是自己的，生前生后，永世流芳。</p>
-<p>有同学说，当今社会，物欲横流，金钱和权势才是立身之本。</p>
-<p>也有同学说，无论是陪伴亲人还是实现理想，都需要自己有一个健康的身体，健康才是王道。</p>
-<p>你看，每个人的生命愿景都不同，每个人的思想都有差别。那么，你的生命愿景是什么呢？</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>生命</tag>
       </tags>
   </entry>
   <entry>
