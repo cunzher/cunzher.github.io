@@ -594,7 +594,7 @@
   <entry>
     <title>网站推荐</title>
     <url>/posts/b149eb90.html</url>
-    <content><![CDATA[<p>收集了一些超棒的网站，收藏啦~	<a id="more"></a></p>
+    <content><![CDATA[<p>收集了一些超棒的网站，收藏啦~    <a id="more"></a></p>
 <h2 id="信息技术向">信息技术向</h2>
 <table>
 <thead>
@@ -2292,7 +2292,7 @@
 </ul>
 <h2 id="测试">测试</h2>
 <h3 id="代码高亮">代码高亮</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># BMI计算器</span></span><br><span class="line">a = <span class="built_in">input</span>(<span class="string">&#x27;身高:&#x27;</span>)</span><br><span class="line">b = <span class="built_in">input</span>(<span class="string">&#x27;体重:&#x27;</span>)</span><br><span class="line">height = <span class="built_in">float</span>(a)</span><br><span class="line">weight = <span class="built_in">float</span>(b)</span><br><span class="line">bmi = weight/height**<span class="number">2</span></span><br><span class="line"><span class="keyword">if</span> bmi &gt; <span class="number">32</span>:</span><br><span class="line">	print(<span class="string">&#x27;严重肥胖&#x27;</span>)</span><br><span class="line"><span class="keyword">elif</span> bmi &gt; <span class="number">28</span>:</span><br><span class="line">	print(<span class="string">&#x27;肥胖&#x27;</span>)</span><br><span class="line"><span class="keyword">elif</span> bmi &gt; <span class="number">25</span>:</span><br><span class="line">	print(<span class="string">&#x27;过重&#x27;</span>)</span><br><span class="line"><span class="keyword">elif</span> bmi &gt; <span class="number">18.5</span>:</span><br><span class="line">	print(<span class="string">&#x27;正常&#x27;</span>)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	print(<span class="string">&#x27;过轻&#x27;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># BMI计算器</span></span><br><span class="line">a = <span class="built_in">input</span>(<span class="string">&#x27;身高:&#x27;</span>)</span><br><span class="line">b = <span class="built_in">input</span>(<span class="string">&#x27;体重:&#x27;</span>)</span><br><span class="line">height = <span class="built_in">float</span>(a)</span><br><span class="line">weight = <span class="built_in">float</span>(b)</span><br><span class="line">bmi = weight/height**<span class="number">2</span></span><br><span class="line"><span class="keyword">if</span> bmi &gt; <span class="number">32</span>:</span><br><span class="line">    print(<span class="string">&#x27;严重肥胖&#x27;</span>)</span><br><span class="line"><span class="keyword">elif</span> bmi &gt; <span class="number">28</span>:</span><br><span class="line">    print(<span class="string">&#x27;肥胖&#x27;</span>)</span><br><span class="line"><span class="keyword">elif</span> bmi &gt; <span class="number">25</span>:</span><br><span class="line">    print(<span class="string">&#x27;过重&#x27;</span>)</span><br><span class="line"><span class="keyword">elif</span> bmi &gt; <span class="number">18.5</span>:</span><br><span class="line">    print(<span class="string">&#x27;正常&#x27;</span>)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    print(<span class="string">&#x27;过轻&#x27;</span>)</span><br></pre></td></tr></table></figure>
 <p><code>code test</code></p>
 <h3 id="列表显示">列表显示</h3>
 <table>
@@ -2570,21 +2570,35 @@ $$</p>
 <blockquote>
 <p><strong>掌握：</strong></p>
 <ol>
-<li>“基因病”与“基因诊断”的概念；</li>
-<li>“基因”的概念、结构及功能；</li>
-<li>“基因表达调控”的概念及方式（含DNA甲基化） ；</li>
-<li>“基因组”的概念及人类基因组的结构特征；</li>
-<li>“基因多态性”（含单核苷酸多态性）的概念及研究意义。</li>
-</ol>
+<li>
+<p>“基因病”与“基因诊断”的概念；</p>
+</li>
+<li>
+<p>“基因”的概念、结构及功能；</p>
+</li>
+<li>
+<p>“基因表达调控”的概念及方式（含DNA甲基化） ；</p>
+</li>
+<li>
+<p>“基因组”的概念及人类基因组的结构特征；</p>
+</li>
+<li>
+<p>“基因多态性”（含单核苷酸多态性）的概念及研究意义。</p>
 <p><strong>熟悉：</strong></p>
-<ol>
-<li>病毒基因组的结构特征。</li>
-<li>原核生物基因组的结构特征。</li>
-</ol>
+</li>
+<li>
+<p>病毒基因组的结构特征。</p>
+</li>
+<li>
+<p>原核生物基因组的结构特征。</p>
 <p><strong>了解：</strong></p>
-<ol>
-<li>“基因治疗”的概念。</li>
-<li>“精准医疗”的概念及研究意义。</li>
+</li>
+<li>
+<p>“基因治疗”的概念。</p>
+</li>
+<li>
+<p>“精准医疗”的概念及研究意义。</p>
+</li>
 </ol>
 </blockquote>
 <a id="more"></a>
@@ -12275,9 +12289,9 @@ N.A——数值孔径。</p>
 <p>支气管播散：较少见，病灶→支气管→空洞→小叶性干酪性肺炎。</p>
 <p>淋巴道播散：LN肿大+干酪样坏死</p>
 <p>血道播散：</p>
-<p>​	全身粟粒性肺结核</p>
-<p>​	肺粟粒性肺结核</p>
-<p>​	肺外器官结核</p>
+<p>​    全身粟粒性肺结核</p>
+<p>​    肺粟粒性肺结核</p>
+<p>​    肺外器官结核</p>
 </li>
 </ol>
 <h3 id="2、继发性肺结核病">2、继发性肺结核病</h3>
@@ -12365,10 +12379,10 @@ N.A——数值孔径。</p>
 <p><img src="https://ypcdnsave.cunzher.cn/picgo/20200529125910.png!colorimg" alt="浸润型肺结核大体标本"></p>
 <h4 id="（3）慢性纤维空洞型肺结核">（3）慢性纤维空洞型肺结核</h4>
 <p>①肺内有一个或多个厚壁空洞</p>
-<p>​	镜下洞壁分三层：</p>
-<p>​		内层为干酪样坏死物，其中有大量结核杆菌；</p>
-<p>​		中层为结核性肉芽组织；</p>
-<p>​		外层为纤维结缔组织。</p>
+<p>​    镜下洞壁分三层：</p>
+<p>​        内层为干酪样坏死物，其中有大量结核杆菌；</p>
+<p>​        中层为结核性肉芽组织；</p>
+<p>​        外层为纤维结缔组织。</p>
 <p>②同侧或对侧肺组织，特别是肺小叶可见由支气管播散引起的新旧不一、大小不等、病变类型不同的病灶，愈往下愈新鲜。</p>
 <p>③后期肺组织严重破坏，广泛纤维化，胸膜增厚并与胸壁粘连，使肺体积缩小、变形，严重影响肺功能。病变空洞与支气管相通，成为结核病的传染源，故又称<strong>开放性肺结核</strong>。</p>
 <p><img src="https://ypcdnsave.cunzher.cn/picgo/20200529130052.png!colorimg" alt="慢性纤维空洞型肺结核大体标本"></p>
@@ -12744,14 +12758,14 @@ your browser does not support the video tag
 <h2 id="（三）梅毒">（三）梅毒</h2>
 <p>由<strong>梅毒螺旋体</strong>引起的性传播性疾病；传染源为梅毒患者；传播途径主要为性交（95％以上）其次为输血、接吻、检查受染及母婴传播（先天性梅毒）</p>
 <p><strong>分型</strong></p>
-<p>​	后天性梅毒：性交传播</p>
-<p>​	先天性梅毒：母婴传播</p>
-<p>​	早期：皮肤和黏膜</p>
-<p>​	晚期：全身各脏器，特别是心血管和中枢神经系统。</p>
+<p>​    后天性梅毒：性交传播</p>
+<p>​    先天性梅毒：母婴传播</p>
+<p>​    早期：皮肤和黏膜</p>
+<p>​    晚期：全身各脏器，特别是心血管和中枢神经系统。</p>
 <p><strong>基本病理变化</strong></p>
-<p>​	闭塞性动脉内膜炎</p>
-<p>​	小血管周围炎</p>
-<p>​	梅毒树胶肿（梅毒瘤）</p>
+<p>​    闭塞性动脉内膜炎</p>
+<p>​    小血管周围炎</p>
+<p>​    梅毒树胶肿（梅毒瘤）</p>
 <h3 id="基本病变">基本病变</h3>
 <h4 id="（1）闭塞性动脉内膜炎和小血管周围炎">（1）闭塞性动脉内膜炎和小血管周围炎</h4>
 <p>闭塞性动脉内膜炎指小动脉内皮细胞及纤维细胞增生，使管壁增厚、血管腔狭窄闭塞。小动脉周围炎指围管性单核细胞、淋巴细胞和浆细胞浸润。浆细胞恒定出现是本病的病变特点之一。</p>
